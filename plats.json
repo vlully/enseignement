@@ -1,0 +1,9127 @@
+[
+  {
+    "plat": "Gaspacho manchois",
+    "pays": "Espagne",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Gaufre aux fruits",
+    "pays": "Belgique",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "kimuchidon",
+    "pays": "Japon",
+    "ingrédients": "riz, kimchi"
+  },
+  {
+    "plat": "mousse de foie de canard au porto",
+    "pays": "France",
+    "ingrédients": "poivre, œuf, Porto, viande de canard, crème fraîche"
+  },
+  {
+    "plat": "tablier de sapeur",
+    "pays": "France",
+    "ingrédients": "Gras-double"
+  },
+  {
+    "plat": "Nasi kandar",
+    "pays": "Malaisie",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Siopao",
+    "pays": "Philippines",
+    "ingrédients": "amidon"
+  },
+  {
+    "plat": "Kesme",
+    "pays": "Turquie",
+    "ingrédients": "eau, sel, œuf, farine"
+  },
+  {
+    "plat": "Ezogelin soup",
+    "pays": "Turquie",
+    "ingrédients": "boulghour"
+  },
+  {
+    "plat": "focaccia barese",
+    "pays": "Italie",
+    "ingrédients": "eau, sucre, sel, farine, huile, levure, Origanum, olive, pomme de terre, tomate"
+  },
+  {
+    "plat": "Q3826092",
+    "pays": "Espagne",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "carcamusa",
+    "pays": "Espagne",
+    "ingrédients": "légume, viande de porc"
+  },
+  {
+    "plat": "pâtes farcies",
+    "pays": "Italie, Russie, Chine",
+    "ingrédients": "couvrant"
+  },
+  {
+    "plat": "Q3920731",
+    "pays": "République des Deux Nations",
+    "ingrédients": "bière, sel, Kvas"
+  },
+  {
+    "plat": "Sartù di riso",
+    "pays": "Italie",
+    "ingrédients": "riz, œuf, saucisse, salami, foie, sauce tomate, provola fumé, boulette de viande, pea"
+  },
+  {
+    "plat": "squash caviar",
+    "pays": "Russie",
+    "ingrédients": "courgette"
+  },
+  {
+    "plat": "Karedok",
+    "pays": "Indonésie",
+    "ingrédients": "Saté"
+  },
+  {
+    "plat": "Komanmelna",
+    "pays": "Russie, République des Maris",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Kuirdak",
+    "pays": "Kazakhstan, Kirghizistan",
+    "ingrédients": "oignon, viande d'agneau"
+  },
+  {
+    "plat": "Hrenovina",
+    "pays": "Russie",
+    "ingrédients": "Chrain, tomate, tête d'ail"
+  },
+  {
+    "plat": "Ambuyat",
+    "pays": "Brunei",
+    "ingrédients": "Sagou"
+  },
+  {
+    "plat": "Bouillon",
+    "pays": "Haïti",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Cantonese seafood soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "cauliflower cheese",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Brassica oleracea var. botrytis"
+  },
+  {
+    "plat": "Chao hong guo",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Crataegus pinnatifida"
+  },
+  {
+    "plat": "Chexo",
+    "pays": "Tibet",
+    "ingrédients": "riz, yaourt"
+  },
+  {
+    "plat": "riz à la noix de coco",
+    "pays": "Inde",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "drunken noodles",
+    "pays": "Thaïlande",
+    "ingrédients": "Shahe fen"
+  },
+  {
+    "plat": "Oyakodon",
+    "pays": "Japon",
+    "ingrédients": "riz, œuf, viande de poulet"
+  },
+  {
+    "plat": "pain à l'ail",
+    "pays": "Italie",
+    "ingrédients": "pain, gousse d’ail"
+  },
+  {
+    "plat": "sandwich au beurre de cacahuète et à la confiture",
+    "pays": "États-Unis",
+    "ingrédients": "confiture, pain, Beurre d'arachide"
+  },
+  {
+    "plat": "edamame",
+    "pays": "Japon",
+    "ingrédients": "soy bean"
+  },
+  {
+    "plat": "Pa amb tomàquet",
+    "pays": "Espagne",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Gofio",
+    "pays": "Espagne",
+    "ingrédients": "céréale"
+  },
+  {
+    "plat": "Bœuf Wellington",
+    "pays": "Angleterre",
+    "ingrédients": "filet de bœuf"
+  },
+  {
+    "plat": "Gnocchi alla romana",
+    "pays": "Italie",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Scotch egg",
+    "pays": "Royaume-Uni",
+    "ingrédients": "œuf, œuf à la coque, viande hachée"
+  },
+  {
+    "plat": "Karelian hot pot",
+    "pays": "Finlande",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "salmorejo",
+    "pays": "Espagne",
+    "ingrédients": "chlorure de sodium, pain, huile d'olive, tomate, tête d'ail"
+  },
+  {
+    "plat": "Calv steak Adlon",
+    "pays": "Allemagne",
+    "ingrédients": "rein, patata, Œufs brouillés, Sauce madère, veau, œuf de poule, pomme de terre"
+  },
+  {
+    "plat": "Tartiflette",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Pão de queijo",
+    "pays": "Brésil",
+    "ingrédients": "manioc"
+  },
+  {
+    "plat": "ajapsandali",
+    "pays": "Azerbaïdjan, Géorgie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "roti",
+    "pays": "Inde, Pakistan, sous-continent",
+    "ingrédients": "Atta"
+  },
+  {
+    "plat": "Uszka",
+    "pays": "Pologne",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Basboussa",
+    "pays": "Érythrée",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Poulet tikka",
+    "pays": "Pakistan",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Wurstbrot",
+    "pays": "Allemagne",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Sorrel soup",
+    "pays": "Russie",
+    "ingrédients": "eau, Oseille commune"
+  },
+  {
+    "plat": "anticucho",
+    "pays": "Pérou",
+    "ingrédients": "Abat, Capsicum chinense"
+  },
+  {
+    "plat": "Agedashi dofu",
+    "pays": "Japon",
+    "ingrédients": "tofu, fécule de pomme de terre, Tentsuyu, Japanese radish"
+  },
+  {
+    "plat": "Fried Green Tomatoes",
+    "pays": "États-Unis",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "mloukhiya",
+    "pays": "Turquie",
+    "ingrédients": "Abelmoschus esculentus"
+  },
+  {
+    "plat": "Gelée d'anguille",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Anguilliformes"
+  },
+  {
+    "plat": "Shoti",
+    "pays": "Géorgie",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "ragoût",
+    "pays": "Italie",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "canard aux navets",
+    "pays": "France",
+    "ingrédients": "beurre, viande de canard, oignon, navet"
+  },
+  {
+    "plat": "Cock-a-leekie",
+    "pays": "Écosse",
+    "ingrédients": "poireau"
+  },
+  {
+    "plat": "confit de canard",
+    "pays": "France",
+    "ingrédients": "viande de canard"
+  },
+  {
+    "plat": "poulet tikka masala",
+    "pays": "Inde",
+    "ingrédients": "crème, yaourt, piment, viande de poulet, noix de coco, oignon, gingembre, tomate, tête d'ail"
+  },
+  {
+    "plat": "Œufs brouillés",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Gyros",
+    "pays": "Grèce",
+    "ingrédients": "pain pita"
+  },
+  {
+    "plat": "Soupe de nouilles au bœuf",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Katsudon",
+    "pays": "Japon",
+    "ingrédients": "riz, tonkatsu"
+  },
+  {
+    "plat": "Perle de coco (nuomici)",
+    "pays": "République populaire de Chine",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "Naengmyeon",
+    "pays": "Corée",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "quiche",
+    "pays": "France",
+    "ingrédients": "pâte brisée, migaine"
+  },
+  {
+    "plat": "Toad in the hole",
+    "pays": "Royaume-Uni",
+    "ingrédients": "saucisse"
+  },
+  {
+    "plat": "Empanada",
+    "pays": "Espagne, Amérique latine",
+    "ingrédients": "pâtisserie"
+  },
+  {
+    "plat": "Badridjani nigvzit",
+    "pays": "Géorgie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Banana bread",
+    "pays": "États-Unis",
+    "ingrédients": "eau, banane, sucre, blé"
+  },
+  {
+    "plat": "Banbury cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "beignet",
+    "pays": "France",
+    "ingrédients": "sucre glace, pâte"
+  },
+  {
+    "plat": "Pâté",
+    "pays": "Belgique, France",
+    "ingrédients": "foie, viande hachée"
+  },
+  {
+    "plat": "Siemieniotka",
+    "pays": "Pologne",
+    "ingrédients": "graine"
+  },
+  {
+    "plat": "bouillabaisse",
+    "pays": "France",
+    "ingrédients": "poisson, croûton, rouille, soupe de poisson, tête d'ail"
+  },
+  {
+    "plat": "Bethmännchen",
+    "pays": "Allemagne",
+    "ingrédients": "massepain"
+  },
+  {
+    "plat": "Jiuniang",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "cart noodle",
+    "pays": "Hong Kong",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Tzatzíki",
+    "pays": "Turquie",
+    "ingrédients": "yaourt, Leben, concombre"
+  },
+  {
+    "plat": "jokbal",
+    "pays": "Corée",
+    "ingrédients": "jarret de porc"
+  },
+  {
+    "plat": "pumpernickel",
+    "pays": "Allemagne",
+    "ingrédients": "farine de seigle"
+  },
+  {
+    "plat": "Beef chow fun",
+    "pays": "République populaire de Chine",
+    "ingrédients": "germe de légume sec"
+  },
+  {
+    "plat": "Poulet du général Tao",
+    "pays": "République populaire de Chine, Taïwan",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "soufflé",
+    "pays": "France",
+    "ingrédients": "jaune d'oeuf"
+  },
+  {
+    "plat": "fondue chinoise",
+    "pays": "Mongolie",
+    "ingrédients": "Jjigae, nabe (cuisine), fondue chinoise, Mu kratha"
+  },
+  {
+    "plat": "hobak-juk",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Bœuf Stroganov",
+    "pays": "Russie, Empire russe",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "sukiyaki",
+    "pays": "Japon",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "quesadilla",
+    "pays": "Mexique",
+    "ingrédients": "tortilla"
+  },
+  {
+    "plat": "Fajita",
+    "pays": "Mexique",
+    "ingrédients": "tortilla"
+  },
+  {
+    "plat": "Butadon",
+    "pays": "Japon",
+    "ingrédients": "riz, viande de porc"
+  },
+  {
+    "plat": "Mofongo",
+    "pays": "Porto Rico",
+    "ingrédients": "banane plantain"
+  },
+  {
+    "plat": "gopchang",
+    "pays": "Corée",
+    "ingrédients": "intestin grêle"
+  },
+  {
+    "plat": "Ćevapi",
+    "pays": "Bosnie-Herzégovine, Serbie",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Musakhan",
+    "pays": "Jordanie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Migas",
+    "pays": "Espagne",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Chow mein",
+    "pays": "République populaire de Chine",
+    "ingrédients": "nouille, viande de poulet, oignon, céleri"
+  },
+  {
+    "plat": "Parmigiana",
+    "pays": "Italie",
+    "ingrédients": "sel, huile, Parmigiano Reggiano, Fior di latte, poivrier, oignon, sauce tomate, aubergine, basilic"
+  },
+  {
+    "plat": "Amatriciana",
+    "pays": "Italie",
+    "ingrédients": "vin blanc, sel, spaghetti, tomate, huile, piment, Guanciale, Pecorino, sauce tomate"
+  },
+  {
+    "plat": "Canard Zhangcha",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de canard"
+  },
+  {
+    "plat": "tartine",
+    "pays": "Allemagne",
+    "ingrédients": "pain, beurre"
+  },
+  {
+    "plat": "bœuf bourguignon",
+    "pays": "France",
+    "ingrédients": "vin rouge, viande bovine, bouillon"
+  },
+  {
+    "plat": "pain au curry",
+    "pays": "Japon",
+    "ingrédients": "pâte, curry japonais"
+  },
+  {
+    "plat": "frittata",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "pizza",
+    "pays": "Italie",
+    "ingrédients": "sel, mozzarella, farine, huile, sauce tomate"
+  },
+  {
+    "plat": "gaufre",
+    "pays": "Belgique",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "croque-monsieur",
+    "pays": "France",
+    "ingrédients": "pain de mie, jambon, emmental"
+  },
+  {
+    "plat": "hamburger",
+    "pays": "Allemagne",
+    "ingrédients": "pain, fromage, laitue, oignon, viande hachée, tomate"
+  },
+  {
+    "plat": "Kig ha farz",
+    "pays": "France",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "crêpe",
+    "pays": "France",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Choucroute d'Alsace",
+    "pays": "France",
+    "ingrédients": "choucroute"
+  },
+  {
+    "plat": "Parfait",
+    "pays": "France",
+    "ingrédients": "sirop"
+  },
+  {
+    "plat": "onigiri",
+    "pays": "Japon",
+    "ingrédients": "riz, nori"
+  },
+  {
+    "plat": "omelette",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Dampfnudel",
+    "pays": "Allemagne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Livre de cuisine/Oie rôtie à la cantonaise",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Anserini"
+  },
+  {
+    "plat": "zhajiangmian",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Cumian"
+  },
+  {
+    "plat": "Bun cha",
+    "pays": "Viêt Nam",
+    "ingrédients": "Vermicelle de riz"
+  },
+  {
+    "plat": "muesli",
+    "pays": "Suisse, Allemagne",
+    "ingrédients": "fruit séché, Flocon d'avoine, grains comestible"
+  },
+  {
+    "plat": "Œufs Bénédicte",
+    "pays": "États-Unis, France",
+    "ingrédients": "pain, œuf, Sauce hollandaise"
+  },
+  {
+    "plat": "Dal makhani",
+    "pays": "Inde",
+    "ingrédients": "Haricot urd"
+  },
+  {
+    "plat": "Knödel",
+    "pays": "Autriche",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "curry",
+    "pays": "Inde",
+    "ingrédients": "curry"
+  },
+  {
+    "plat": "Dhokla",
+    "pays": "Inde",
+    "ingrédients": "riz, pois chiche"
+  },
+  {
+    "plat": "currywurst",
+    "pays": "Allemagne",
+    "ingrédients": "saucisse"
+  },
+  {
+    "plat": "kebab",
+    "pays": "Syrie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "hot-dog",
+    "pays": "Allemagne",
+    "ingrédients": "Panino, sauce, saucisse de Vienne"
+  },
+  {
+    "plat": "ratatouille",
+    "pays": "France",
+    "ingrédients": "courgette, Origanum majorana, poivron, oignon, aubergine, tomate, tête d'ail, basilic"
+  },
+  {
+    "plat": "bouillie",
+    "pays": "Afrique, Europe",
+    "ingrédients": "céréale"
+  },
+  {
+    "plat": "taco",
+    "pays": "Amérique latine",
+    "ingrédients": "Tortilla"
+  },
+  {
+    "plat": "pain perdu",
+    "pays": "Europe",
+    "ingrédients": "pain, lait, œuf"
+  },
+  {
+    "plat": "gaspacho",
+    "pays": "Espagne",
+    "ingrédients": "eau, pain, ail, concombre, oignon, tomate, vinaigre, huile d'olive, Capsicum"
+  },
+  {
+    "plat": "Gyūdon",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Moussaka",
+    "pays": "Palestine",
+    "ingrédients": "oignon, aubergine, viande hachée"
+  },
+  {
+    "plat": "Socca",
+    "pays": "Italie",
+    "ingrédients": "farine de pois chiche"
+  },
+  {
+    "plat": "Fasirt",
+    "pays": "Danemark",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Salzburger Nockerln",
+    "pays": "Autriche",
+    "ingrédients": "lait, sucre, œuf, farine, œuf de poule"
+  },
+  {
+    "plat": "Biryani",
+    "pays": "Inde",
+    "ingrédients": "riz, viande d'agneau, œuf de poule"
+  },
+  {
+    "plat": "salade russe",
+    "pays": "Russie",
+    "ingrédients": "carotte, viande, pomme de terre, concombre, pois, œuf, mayonnaise, viande de poulet, œuf de poule"
+  },
+  {
+    "plat": "Shishbarak",
+    "pays": "Ouzbékistan",
+    "ingrédients": "raviole"
+  },
+  {
+    "plat": "Curry noodle",
+    "pays": "Malaisie",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Phở",
+    "pays": "Viêt Nam",
+    "ingrédients": "nouilles de riz"
+  },
+  {
+    "plat": "Ouillade",
+    "pays": "Espagne",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Partan bree",
+    "pays": "Écosse",
+    "ingrédients": "Brachyura"
+  },
+  {
+    "plat": "Pisca Andina",
+    "pays": "Venezuela",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Piti",
+    "pays": "Azerbaïdjan",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Pomegranate soup",
+    "pays": "Iran",
+    "ingrédients": "grenade"
+  },
+  {
+    "plat": "Porra antequerana",
+    "pays": "Espagne",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "prawn soup",
+    "pays": "Canada",
+    "ingrédients": "prawn"
+  },
+  {
+    "plat": "Prežganka",
+    "pays": "Slovénie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Red Peas Soup",
+    "pays": "Jamaïque",
+    "ingrédients": "patate douce, viande bovine, raviole, oignon, igname, haricot rouge"
+  },
+  {
+    "plat": "Revithia",
+    "pays": "Grèce",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "Samlar machu",
+    "pays": "Cambodge",
+    "ingrédients": "Tamarinier"
+  },
+  {
+    "plat": "Sopa teologa",
+    "pays": "Pérou",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "Soup Number Five",
+    "pays": "Philippines",
+    "ingrédients": "taureau"
+  },
+  {
+    "plat": "Southern Illinois chowder",
+    "pays": "États-Unis",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Suaasat",
+    "pays": "Groenland",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Sungeoguk",
+    "pays": "Corée",
+    "ingrédients": "Truite"
+  },
+  {
+    "plat": "Sup Kambing",
+    "pays": "Indonésie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Taco soup",
+    "pays": "États-Unis",
+    "ingrédients": "bœuf haché"
+  },
+  {
+    "plat": "Talunan",
+    "pays": "Philippines",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Tekwan",
+    "pays": "Indonésie",
+    "ingrédients": "fishcake"
+  },
+  {
+    "plat": "tomato and egg soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Zuppa alla modenese",
+    "pays": "Italie",
+    "ingrédients": "sel, beurre, noix de muscade, œuf, Parmigiano Reggiano, croûton, fond, feuilles d'épinard"
+  },
+  {
+    "plat": "Harihari-nabe",
+    "pays": "Japon",
+    "ingrédients": "Baleine de Minke"
+  },
+  {
+    "plat": "Imoni",
+    "pays": "Japon",
+    "ingrédients": "pomme de terre, Colocasia esculenta"
+  },
+  {
+    "plat": "Kulajda",
+    "pays": "République tchèque",
+    "ingrédients": "crème aigre"
+  },
+  {
+    "plat": "Kenoshiru",
+    "pays": "Japon",
+    "ingrédients": "carotte, Arctium lappa, Pteridium aquilinum, Aburaage, Amorphophallus konjac, Dashi, radis blanc, Q11673153"
+  },
+  {
+    "plat": "kyselo",
+    "pays": "Bohême",
+    "ingrédients": "levain panaire"
+  },
+  {
+    "plat": "Acquacotta",
+    "pays": "Italie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "cucumber soup",
+    "pays": "Pologne",
+    "ingrédients": "légume-racine, bouillon, Pickle, concombre"
+  },
+  {
+    "plat": "potée",
+    "pays": "France",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "herring soup",
+    "pays": "Suède",
+    "ingrédients": "eau"
+  },
+  {
+    "plat": "Fish soup bee hoon",
+    "pays": "Singapour",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Molagoottal",
+    "pays": "Inde",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Rosół",
+    "pays": "Pologne",
+    "ingrédients": "poulet"
+  },
+  {
+    "plat": "Samlor Kako",
+    "pays": "Cambodge",
+    "ingrédients": "Kroeung"
+  },
+  {
+    "plat": "Charlotte",
+    "pays": "France",
+    "ingrédients": "pain, œuf, costarde, Sponge cake"
+  },
+  {
+    "plat": "forêt noire",
+    "pays": "Allemagne",
+    "ingrédients": "gâteau au chocolat"
+  },
+  {
+    "plat": "Döner Kebab",
+    "pays": "Turquie",
+    "ingrédients": "viande, légume, galette de pain"
+  },
+  {
+    "plat": "Fish and chips",
+    "pays": "Angleterre",
+    "ingrédients": "poisson, frite"
+  },
+  {
+    "plat": "beignet d'oignon",
+    "pays": "États-Unis",
+    "ingrédients": "oignon"
+  },
+  {
+    "plat": "Raspeball",
+    "pays": "Norvège",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Ketwurst",
+    "pays": "République démocratique allemande",
+    "ingrédients": "Panino"
+  },
+  {
+    "plat": "Kapsalon",
+    "pays": "Pays-Bas",
+    "ingrédients": "salade, viande, frite, gouda"
+  },
+  {
+    "plat": "Amok",
+    "pays": "Cambodge",
+    "ingrédients": "curry"
+  },
+  {
+    "plat": "Dongchimi",
+    "pays": "Corée",
+    "ingrédients": "gingembre, Korean radish"
+  },
+  {
+    "plat": "Thai curry",
+    "pays": "Thaïlande",
+    "ingrédients": "pâte de curry"
+  },
+  {
+    "plat": "tchebourek",
+    "pays": "Crimée",
+    "ingrédients": "viande d'agneau, Q4377441"
+  },
+  {
+    "plat": "Q1546561",
+    "pays": "Russie",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Hot-dog de Chicago",
+    "pays": "États-Unis",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Hot-dog Michigan",
+    "pays": "États-Unis",
+    "ingrédients": "hot dog bun"
+  },
+  {
+    "plat": "Cakalang fufu",
+    "pays": "Indonésie",
+    "ingrédients": "fumage"
+  },
+  {
+    "plat": "Cağ kebab",
+    "pays": "Turquie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Ceylon",
+    "pays": "Sri Lanka",
+    "ingrédients": "cocotier"
+  },
+  {
+    "plat": "chili-dog",
+    "pays": "États-Unis",
+    "ingrédients": "hot dog bun"
+  },
+  {
+    "plat": "danger dog",
+    "pays": "Mexique",
+    "ingrédients": "hot-dog"
+  },
+  {
+    "plat": "Italian hot dog",
+    "pays": "États-Unis",
+    "ingrédients": "Panino"
+  },
+  {
+    "plat": "Patlıcanlı kebap",
+    "pays": "Turquie",
+    "ingrédients": "viande, aubergine"
+  },
+  {
+    "plat": "Portuguese sauce",
+    "pays": "Macao",
+    "ingrédients": "curry"
+  },
+  {
+    "plat": "White hot",
+    "pays": "États-Unis",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Completo",
+    "pays": "Chili",
+    "ingrédients": "pain, saucisse de Vienne"
+  },
+  {
+    "plat": "Soupe de crabes femelles",
+    "pays": "États-Unis",
+    "ingrédients": "Crabe bleu"
+  },
+  {
+    "plat": "Malu Mirisata",
+    "pays": "Sri Lanka",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Ashe doogh",
+    "pays": "Iran",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Grouta",
+    "pays": "Chypre",
+    "ingrédients": "eau potable, farine"
+  },
+  {
+    "plat": "Tom khlong",
+    "pays": "Thaïlande",
+    "ingrédients": "Tamarinier"
+  },
+  {
+    "plat": "Tsilihourda",
+    "pays": "Grèce, Corfou",
+    "ingrédients": "riz, aneth, laitue, Cerfeuil commun, Tordylium apulum, viande d'agneau, poivrier"
+  },
+  {
+    "plat": "Aguadito de pollo",
+    "pays": "Pérou",
+    "ingrédients": "poulet, coriander seed, maïs, pea"
+  },
+  {
+    "plat": "Q50627362",
+    "pays": "Équateur, Azuay, Cañar",
+    "ingrédients": "viande de porc, Courge de Siam, Mote"
+  },
+  {
+    "plat": "Panellet",
+    "pays": "Espagne",
+    "ingrédients": "massepain"
+  },
+  {
+    "plat": "tiramisu",
+    "pays": "Italie",
+    "ingrédients": "café, Boudoir, mascarpone, cacao en poudre, œuf de poule"
+  },
+  {
+    "plat": "vla",
+    "pays": "Pays-Bas",
+    "ingrédients": "lait, œuf"
+  },
+  {
+    "plat": "Baklava",
+    "pays": "Empire ottoman",
+    "ingrédients": "sucre, cannelle, amande, noix, pâte phyllo, sirop"
+  },
+  {
+    "plat": "chocolate salami",
+    "pays": "Portugal",
+    "ingrédients": "cacao en poudre"
+  },
+  {
+    "plat": "banana split",
+    "pays": "États-Unis",
+    "ingrédients": "banane, crème fouettée, cerise au marasquin, glace au chocolat, glace à la vanille, glace à la fraise"
+  },
+  {
+    "plat": "Indian ice cream",
+    "pays": "Canada",
+    "ingrédients": "Shepherdia canadensis"
+  },
+  {
+    "plat": "akutaq",
+    "pays": "États-Unis",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "slatko",
+    "pays": "Serbie",
+    "ingrédients": "fruit"
+  },
+  {
+    "plat": "brownie",
+    "pays": "États-Unis",
+    "ingrédients": "farine, fève de cacao"
+  },
+  {
+    "plat": "Adoquín del Pilar",
+    "pays": "Espagne",
+    "ingrédients": "caramel"
+  },
+  {
+    "plat": "Soan papdi",
+    "pays": "Inde",
+    "ingrédients": "farine de pois chiche"
+  },
+  {
+    "plat": "blanc-manger",
+    "pays": "Italie",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Douhua",
+    "pays": "République populaire de Chine",
+    "ingrédients": "tofu"
+  },
+  {
+    "plat": "Pişmaniye",
+    "pays": "Turquie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "poire belle Hélène",
+    "pays": "France",
+    "ingrédients": "sirop de chocolat, sirop, glace à la vanille, poire"
+  },
+  {
+    "plat": "Pet de nonne",
+    "pays": "France",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "œufs à la neige",
+    "pays": "France",
+    "ingrédients": "meringue"
+  },
+  {
+    "plat": "Miguelitos",
+    "pays": "Espagne",
+    "ingrédients": "crème pâtissière"
+  },
+  {
+    "plat": "Coconut custard",
+    "pays": "Cambodge",
+    "ingrédients": "citrouille, costarde, noix de coco"
+  },
+  {
+    "plat": "Arnadí",
+    "pays": "Espagne",
+    "ingrédients": "sucre, potiron, amande, Q11941681"
+  },
+  {
+    "plat": "Tulumba",
+    "pays": "Empire ottoman",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "fruit fool",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "purée, fruit"
+  },
+  {
+    "plat": "tarte aux pommes",
+    "pays": "États-Unis",
+    "ingrédients": "sucre, raisin sec, cannelle, beurre, farine, œuf, pomme à cuire"
+  },
+  {
+    "plat": "coconut bar",
+    "pays": "République populaire de Chine",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "Clafoutis",
+    "pays": "France",
+    "ingrédients": "farine, œuf, fruit"
+  },
+  {
+    "plat": "Fried Coke",
+    "pays": "États-Unis",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "profiterole",
+    "pays": "Italie, France",
+    "ingrédients": "ganache, chouquette, glace à la vanille"
+  },
+  {
+    "plat": "Mont-blanc",
+    "pays": "Italie",
+    "ingrédients": "châtaigne"
+  },
+  {
+    "plat": "Pavlova",
+    "pays": "Nouvelle-Zélande",
+    "ingrédients": "sucre"
+  },
+  {
+    "plat": "Syllabub",
+    "pays": "Angleterre",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Güllaç",
+    "pays": "Turquie",
+    "ingrédients": "amidon de maïs"
+  },
+  {
+    "plat": "pêche Melba",
+    "pays": "France",
+    "ingrédients": "pêcher, crème glacée, Vanilla, glace à la vanille, pêche"
+  },
+  {
+    "plat": "halo-halo",
+    "pays": "Philippines",
+    "ingrédients": "cocotier, Sagou, légume sec, gulaman, lait concentré non sucré, crushed ice"
+  },
+  {
+    "plat": "Mämmi",
+    "pays": "Finlande",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "blondie",
+    "pays": "États-Unis",
+    "ingrédients": "Vanille, farine"
+  },
+  {
+    "plat": "Ostkaka",
+    "pays": "Suède",
+    "ingrédients": "présure"
+  },
+  {
+    "plat": "Flaugnarde",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "palmier",
+    "pays": "France",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "Picarones",
+    "pays": "Pérou",
+    "ingrédients": "patate douce, potiron, farine de blé, figue, panela"
+  },
+  {
+    "plat": "Chè trôi nước",
+    "pays": "Viêt Nam",
+    "ingrédients": "Haricot mungo"
+  },
+  {
+    "plat": "natillas",
+    "pays": "Espagne",
+    "ingrédients": "lait, sucre, œuf"
+  },
+  {
+    "plat": "Knickerbocker glory",
+    "pays": "Royaume-Uni",
+    "ingrédients": "crème glacée"
+  },
+  {
+    "plat": "Arctic roll",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Q5706324",
+    "pays": "Pérou",
+    "ingrédients": "riz, viande de canard, coriander seed"
+  },
+  {
+    "plat": "Islama köfte",
+    "pays": "Turquie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "toyga soup",
+    "pays": "Turquie",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Flaouna",
+    "pays": "Chypre",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "yayla çorbası",
+    "pays": "Turquie",
+    "ingrédients": "riz, yaourt"
+  },
+  {
+    "plat": "Q6072201",
+    "pays": "Espagne",
+    "ingrédients": "perdrix"
+  },
+  {
+    "plat": "Porotos con riendas",
+    "pays": "Chili",
+    "ingrédients": "spaghetti"
+  },
+  {
+    "plat": "Seco",
+    "pays": "Pérou",
+    "ingrédients": "viande, viande bovine, viande d'agneau, viande de poulet"
+  },
+  {
+    "plat": "crème Chantilly",
+    "pays": "France",
+    "ingrédients": "sucre glace, crème fouettée"
+  },
+  {
+    "plat": "Ketoprak",
+    "pays": "Indonésie",
+    "ingrédients": "tofu"
+  },
+  {
+    "plat": "Lountza",
+    "pays": "Italie, Chypre",
+    "ingrédients": "vin, sel, viande de porc, coriander seed"
+  },
+  {
+    "plat": "Mattar paneer",
+    "pays": "Inde",
+    "ingrédients": "Panir"
+  },
+  {
+    "plat": "oil noodles",
+    "pays": "République populaire de Chine",
+    "ingrédients": "nouille, farine de blé"
+  },
+  {
+    "plat": "Pato no tucupi",
+    "pays": "Brésil",
+    "ingrédients": "tucupi, viande de canard"
+  },
+  {
+    "plat": "pieds de porc au vinaigre et au gingembre",
+    "pays": "République populaire de Chine",
+    "ingrédients": "gingembre, Pied de cochon"
+  },
+  {
+    "plat": "Ayam pansuh",
+    "pays": "Malaisie",
+    "ingrédients": "poulet"
+  },
+  {
+    "plat": "Soup joumou",
+    "pays": "Haïti",
+    "ingrédients": "citrouille"
+  },
+  {
+    "plat": "stir-fried tomato and scrambled eggs",
+    "pays": "République populaire de Chine",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Callos a la madrileña",
+    "pays": "Espagne",
+    "ingrédients": "tripes"
+  },
+  {
+    "plat": "cochinillo asado",
+    "pays": "Espagne",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Osso buco",
+    "pays": "Italie",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Chanpurū",
+    "pays": "Japon",
+    "ingrédients": "légume, tofu, huile alimentaire"
+  },
+  {
+    "plat": "donburi",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "shabu-shabu",
+    "pays": "Japon",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Nikuman",
+    "pays": "Japon",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Porchetta",
+    "pays": "Italie",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Tenshindon",
+    "pays": "Japon",
+    "ingrédients": "riz, œuf"
+  },
+  {
+    "plat": "Pommes duchesse",
+    "pays": "France",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Pomme de terre au four",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Kochari",
+    "pays": "Égypte",
+    "ingrédients": "oryza"
+  },
+  {
+    "plat": "Cha siu bao",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Omurice",
+    "pays": "Japon",
+    "ingrédients": "Riz frit, œuf de poule"
+  },
+  {
+    "plat": "Capuns",
+    "pays": "Suisse",
+    "ingrédients": "spätzle"
+  },
+  {
+    "plat": "aloo gobi",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre, chou-fleur"
+  },
+  {
+    "plat": "Yakitori",
+    "pays": "Japon",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Samoussa",
+    "pays": "Moyen-Orient",
+    "ingrédients": "carotte, viande, pois, farine de blé, pomme de terre"
+  },
+  {
+    "plat": "Faggot",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Abat"
+  },
+  {
+    "plat": "dinde gigogne",
+    "pays": "États-Unis",
+    "ingrédients": "viande de canard, viande de poulet, viande de dinde"
+  },
+  {
+    "plat": "Bacalhau à Brás",
+    "pays": "Portugal",
+    "ingrédients": "morue de l'Atlantique, œuf de poule, pomme de terre"
+  },
+  {
+    "plat": "Txistorra",
+    "pays": "Espagne",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Bruschetta",
+    "pays": "Italie",
+    "ingrédients": "ciabatta, condiment, tomate, tête d'ail"
+  },
+  {
+    "plat": "mousse",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Eton mess",
+    "pays": "Royaume-Uni",
+    "ingrédients": "fraisier cultivé, meringue, crème fouettée"
+  },
+  {
+    "plat": "Fios de ovos",
+    "pays": "Portugal",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Apple cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pomme, sucre, cannelle, beurre, farine, noix de muscade, œuf, bicarbonate de sodium"
+  },
+  {
+    "plat": "Rasgulla",
+    "pays": "Inde",
+    "ingrédients": "semoule, saccharose, Chhena"
+  },
+  {
+    "plat": "Poire à la beaujolaise",
+    "pays": "Espagne, France",
+    "ingrédients": "vin rouge, poire"
+  },
+  {
+    "plat": "Tufahije",
+    "pays": "Iran",
+    "ingrédients": "noix"
+  },
+  {
+    "plat": "Tarte à la gomme",
+    "pays": "France",
+    "ingrédients": "Flan"
+  },
+  {
+    "plat": "Diples",
+    "pays": "Grèce",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "suspiro de limeña",
+    "pays": "Pérou",
+    "ingrédients": "Manjar"
+  },
+  {
+    "plat": "Gâteau des Rois",
+    "pays": "Espagne, Portugal",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Angel delight",
+    "pays": "Royaume-Uni",
+    "ingrédients": "costarde"
+  },
+  {
+    "plat": "Bülbül yuvası",
+    "pays": "Turquie",
+    "ingrédients": "pâte phyllo"
+  },
+  {
+    "plat": "tarak-juk",
+    "pays": "Corée",
+    "ingrédients": "riz, lait"
+  },
+  {
+    "plat": "purée de pommes de terre",
+    "pays": "Angleterre",
+    "ingrédients": "lait, beurre, pomme de terre"
+  },
+  {
+    "plat": "Cuccìa",
+    "pays": "Italie",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "Ga'at",
+    "pays": "Éthiopie",
+    "ingrédients": "barley"
+  },
+  {
+    "plat": "Stip",
+    "pays": "Pays-Bas",
+    "ingrédients": "sarrasin"
+  },
+  {
+    "plat": "Buckwheat",
+    "pays": "Allemagne",
+    "ingrédients": "sarrasin"
+  },
+  {
+    "plat": "Cocktion",
+    "pays": "Jamaïque",
+    "ingrédients": "sucre, maïs"
+  },
+  {
+    "plat": "Creme de papaya",
+    "pays": "Brésil",
+    "ingrédients": "Carica papaya"
+  },
+  {
+    "plat": "dessert bar",
+    "pays": "États-Unis",
+    "ingrédients": "sucre"
+  },
+  {
+    "plat": "filhós",
+    "pays": "Portugal",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Ras malai",
+    "pays": "Bombay",
+    "ingrédients": "sucre, safran, Malai, Chhena, cardamome, Pistache"
+  },
+  {
+    "plat": "Q5849978",
+    "pays": "Espagne",
+    "ingrédients": "sucre, amande"
+  },
+  {
+    "plat": "Q5869227",
+    "pays": "Pérou",
+    "ingrédients": "lait, sucre, haricot commun, panela"
+  },
+  {
+    "plat": "kabak tatlısı",
+    "pays": "Turquie",
+    "ingrédients": "citrouille"
+  },
+  {
+    "plat": "hoşmerim",
+    "pays": "Turquie",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Q6100269",
+    "pays": "Pérou",
+    "ingrédients": "pain, noyer commun, Pacanier, panela"
+  },
+  {
+    "plat": "Torrija",
+    "pays": "Espagne",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Kaju katli",
+    "pays": "Inde",
+    "ingrédients": "anacardier"
+  },
+  {
+    "plat": "Keşkül",
+    "pays": "Turquie",
+    "ingrédients": "amandier"
+  },
+  {
+    "plat": "Hanımgöbeği",
+    "pays": "Turquie",
+    "ingrédients": "pâte à choux"
+  },
+  {
+    "plat": "Spettekaka",
+    "pays": "Suède",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Ayva tatlısı",
+    "pays": "Turquie",
+    "ingrédients": "coing"
+  },
+  {
+    "plat": "Sütlü Nuriye",
+    "pays": "Turquie",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Taro ball",
+    "pays": "Taïwan",
+    "ingrédients": "taro"
+  },
+  {
+    "plat": "Kalburabastı",
+    "pays": "Turquie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Q8962920",
+    "pays": "Espagne",
+    "ingrédients": "chocolat, fruit confit"
+  },
+  {
+    "plat": "raclette",
+    "pays": "Suisse",
+    "ingrédients": "raclette"
+  },
+  {
+    "plat": "sandwich",
+    "pays": "Angleterre",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Zrazy",
+    "pays": "Russie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Cepelinai",
+    "pays": "Lituanie",
+    "ingrédients": "pomme de terre, viande hachée"
+  },
+  {
+    "plat": "Solomon Gundy",
+    "pays": "Jamaïque",
+    "ingrédients": "poisson fumé"
+  },
+  {
+    "plat": "cracker",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Vitello tonnato",
+    "pays": "Italie",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Salteña",
+    "pays": "Bolivie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Tendon",
+    "pays": "Japon",
+    "ingrédients": "riz, tempura"
+  },
+  {
+    "plat": "Jjigae",
+    "pays": "Corée",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Unagidon",
+    "pays": "Japon",
+    "ingrédients": "riz, Anguille"
+  },
+  {
+    "plat": "Smyrna meatballs",
+    "pays": "Turquie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "pissaladière",
+    "pays": "Italie, France",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Cachupa",
+    "pays": "Cap-Vert",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Barbari",
+    "pays": "Iran",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "bouillon d'awara",
+    "pays": "France",
+    "ingrédients": "Astrocaryum vulgare"
+  },
+  {
+    "plat": "kisra",
+    "pays": "Tchad, Soudan du Sud, Soudan",
+    "ingrédients": "Sorghum"
+  },
+  {
+    "plat": "qawarma",
+    "pays": "Levant",
+    "ingrédients": "viande, lavash"
+  },
+  {
+    "plat": "Arròs negre",
+    "pays": "Espagne",
+    "ingrédients": "riz blanc"
+  },
+  {
+    "plat": "Himbasha",
+    "pays": "Éthiopie, Érythrée",
+    "ingrédients": "cardamome"
+  },
+  {
+    "plat": "Lumpia",
+    "pays": "République populaire de Chine, Indonésie",
+    "ingrédients": "crêpe"
+  },
+  {
+    "plat": "Flatbrød",
+    "pays": "Norvège",
+    "ingrédients": "barley"
+  },
+  {
+    "plat": "Lancashire hotpot",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Aish Merahrah",
+    "pays": "Égypte",
+    "ingrédients": "Fenugrec"
+  },
+  {
+    "plat": "Ajdov Kruh",
+    "pays": "Slovénie",
+    "ingrédients": "sarrasin"
+  },
+  {
+    "plat": "Bazlama",
+    "pays": "Turquie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Bammy",
+    "pays": "Jamaïque",
+    "ingrédients": "manioc"
+  },
+  {
+    "plat": "Nœud à l'ail",
+    "pays": "États-Unis",
+    "ingrédients": "tête d'ail"
+  },
+  {
+    "plat": "Hallulla",
+    "pays": "Chili",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "jokpyeon",
+    "pays": "Corée",
+    "ingrédients": "pied de bœuf"
+  },
+  {
+    "plat": "Khanom bueang",
+    "pays": "Thaïlande",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Ngome",
+    "pays": "Mali",
+    "ingrédients": "millet"
+  },
+  {
+    "plat": "Pashti",
+    "pays": "Inde",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Rinderbraten",
+    "pays": "Allemagne",
+    "ingrédients": "Round steak"
+  },
+  {
+    "plat": "Sabaayad",
+    "pays": "Somalie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Sanchuisanda",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Sangak",
+    "pays": "Iran",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Singing hinny",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "quiche lorraine",
+    "pays": "duché de Lorraine",
+    "ingrédients": "pâte brisée, lardon, migaine"
+  },
+  {
+    "plat": "Q12785648",
+    "pays": "Slovénie",
+    "ingrédients": "eau, sel, levure, œuf, soft wheat farina, cumin"
+  },
+  {
+    "plat": "tripa mishki",
+    "pays": "Équateur",
+    "ingrédients": "saindoux, tripes, tête d'ail"
+  },
+  {
+    "plat": "Q21190320",
+    "pays": "Italie",
+    "ingrédients": "tripes, haricot sec"
+  },
+  {
+    "plat": "cacık",
+    "pays": "Turquie",
+    "ingrédients": "eau potable, sel, yaourt, concombre, tête d'ail"
+  },
+  {
+    "plat": "Q54888160",
+    "pays": "Italie",
+    "ingrédients": "eau, farine"
+  },
+  {
+    "plat": "Sochen'",
+    "pays": "Rus' de Kyiv",
+    "ingrédients": "eau, sel, farine, huile de chanvre"
+  },
+  {
+    "plat": "Q10856318",
+    "pays": "Japon",
+    "ingrédients": "Miso, Amorphophallus konjac"
+  },
+  {
+    "plat": "tarako spaghetti",
+    "pays": "Japon",
+    "ingrédients": "spaghetti, Tarako"
+  },
+  {
+    "plat": "tanindon",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Miso-katsu",
+    "pays": "Japon",
+    "ingrédients": "viande de porc, Miso"
+  },
+  {
+    "plat": "konohadon",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "tamagodon",
+    "pays": "Japon",
+    "ingrédients": "riz, œuf"
+  },
+  {
+    "plat": "Arroz al horno",
+    "pays": "Espagne",
+    "ingrédients": "eau, riz, sel, safran, huile d'olive, Boudin noir, Travers de porc, pomme de terre, tomate, tête d'ail, pois chiche"
+  },
+  {
+    "plat": "Pirojki",
+    "pays": "Europe de l'Est",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Q11907497",
+    "pays": "Espagne",
+    "ingrédients": "ail, morue de l'Atlantique, paprika, tomate"
+  },
+  {
+    "plat": "fréginat",
+    "pays": "Espagne, France",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Kljukusa",
+    "pays": "Bosnie",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "bouyiourdi",
+    "pays": "Grèce",
+    "ingrédients": "Capsicum annuum, huile d'olive, feta, tomate"
+  },
+  {
+    "plat": "macaroni soup",
+    "pays": "Italie",
+    "ingrédients": "macaroni"
+  },
+  {
+    "plat": "Tortilla",
+    "pays": "Mexique",
+    "ingrédients": "maïs"
+  },
+  {
+    "plat": "Q16069258",
+    "pays": "Suriname",
+    "ingrédients": "riz, sucre, haricot commun, salt-cured meat, viande de poulet, poivrier, oignon, Capsicum chinense 'Madame Jeanette', tomate, céleri"
+  },
+  {
+    "plat": "Duck rice",
+    "pays": "Singapour",
+    "ingrédients": "viande de canard, riz blanc"
+  },
+  {
+    "plat": "Lardy cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Réutilisation des déchets agroalimentaires"
+  },
+  {
+    "plat": "soupe aux truffes noires VGE",
+    "pays": "France",
+    "ingrédients": "légume, pâte feuilletée, foie gras, Truffe noire"
+  },
+  {
+    "plat": "canard à l'orange",
+    "pays": "France, Béarn",
+    "ingrédients": "carotte, vin blanc, Cointreau, sel, orange, persil, beurre, poivre, viande de canard, bouquet garni, citron, oignon"
+  },
+  {
+    "plat": "Mami soup",
+    "pays": "Philippines",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Lung fung soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "potted shrimps",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Crevette grise"
+  },
+  {
+    "plat": "Bubur ayam",
+    "pays": "Indonésie",
+    "ingrédients": "riz, viande de poulet"
+  },
+  {
+    "plat": "Caviar d'aubergine",
+    "pays": "Iran, Syrie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Arroz junto",
+    "pays": "Porto Rico",
+    "ingrédients": "riz, viande, légume sec"
+  },
+  {
+    "plat": "zeytinyağlı enginar",
+    "pays": "Turquie",
+    "ingrédients": "huile d'olive, artichaut"
+  },
+  {
+    "plat": "Taro à la sauce jaune",
+    "pays": "Cameroun",
+    "ingrédients": "viande, épice, champignon, huile de palme, taro"
+  },
+  {
+    "plat": "Chichoumeille",
+    "pays": "France",
+    "ingrédients": "tomate, aubergine"
+  },
+  {
+    "plat": "Ziva",
+    "pays": "Israël",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "Black peas",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pea"
+  },
+  {
+    "plat": "Q21190161",
+    "pays": "Italie",
+    "ingrédients": "Grand brochet"
+  },
+  {
+    "plat": "Millopita",
+    "pays": "Chypre",
+    "ingrédients": "eau potable, sel, farine, saindoux, semoule"
+  },
+  {
+    "plat": "paratha",
+    "pays": "Inde",
+    "ingrédients": "farine atta"
+  },
+  {
+    "plat": "Boule de Berlin",
+    "pays": "Allemagne",
+    "ingrédients": "œuf, huile alimentaire, yeast dough"
+  },
+  {
+    "plat": "Croustillon",
+    "pays": "Pays-Bas",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tortilla",
+    "pays": "Mexique",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "pain pita",
+    "pays": "Grèce",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Pain croquant suédois",
+    "pays": "Suède",
+    "ingrédients": "rye"
+  },
+  {
+    "plat": "Kaiserschmarrn",
+    "pays": "Autriche",
+    "ingrédients": "lait, sucre, farine, œuf"
+  },
+  {
+    "plat": "Koeksister",
+    "pays": "Afrique du Sud",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Johnny cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine de maïs"
+  },
+  {
+    "plat": "Fritule",
+    "pays": "Croatie",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "funnel cake",
+    "pays": "États-Unis, Allemagne",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Frybread",
+    "pays": "Hongrie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "naan",
+    "pays": "République populaire de Chine, Inde",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "You Tiao",
+    "pays": "République populaire de Chine",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Chapati",
+    "pays": "Inde",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "lavash",
+    "pays": "Arménie",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Papadum",
+    "pays": "Inde",
+    "ingrédients": "lentil"
+  },
+  {
+    "plat": "bhakri",
+    "pays": "Inde",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Piadina",
+    "pays": "Italie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Injera",
+    "pays": "Éthiopie",
+    "ingrédients": "Teff"
+  },
+  {
+    "plat": "Chakhchoukha",
+    "pays": "Algérie",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Mekitsa",
+    "pays": "Bulgarie",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Podpłomyk",
+    "pays": "Pologne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Bamiyeh",
+    "pays": "Iran",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Kulcha",
+    "pays": "Inde, Pakistan",
+    "ingrédients": "farine maida"
+  },
+  {
+    "plat": "Krotekake",
+    "pays": "Norvège",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Crumpet",
+    "pays": "Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "mousse au chocolat",
+    "pays": "France",
+    "ingrédients": "chocolat, blanc d'œuf"
+  },
+  {
+    "plat": "Flatkaka",
+    "pays": "Islande",
+    "ingrédients": "farine de seigle"
+  },
+  {
+    "plat": "Parotta",
+    "pays": "Inde, Tamil Nadu",
+    "ingrédients": "farine maida, farine de blé"
+  },
+  {
+    "plat": "Pane carasau",
+    "pays": "Italie, Sardaigne",
+    "ingrédients": "Blé dur"
+  },
+  {
+    "plat": "Øllebrød",
+    "pays": "Danemark",
+    "ingrédients": "rugbrød"
+  },
+  {
+    "plat": "Guriev porridge",
+    "pays": "Russie",
+    "ingrédients": "fruit à coque, fruit séché, kajmak, gâteau de semoule"
+  },
+  {
+    "plat": "Q4351446",
+    "pays": "Russie",
+    "ingrédients": "orge perlé"
+  },
+  {
+    "plat": "Kacha",
+    "pays": "Russie",
+    "ingrédients": "sarrasin"
+  },
+  {
+    "plat": "Daheen",
+    "pays": "Irak",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "torpedo dessert",
+    "pays": "Turquie, Bulgarie",
+    "ingrédients": "beurre, pâte, levure de boulanger"
+  },
+  {
+    "plat": "Sugoli",
+    "pays": "Italie",
+    "ingrédients": "moût"
+  },
+  {
+    "plat": "Şöbiyet",
+    "pays": "Turquie",
+    "ingrédients": "pâte phyllo"
+  },
+  {
+    "plat": "Pio Quinto",
+    "pays": "Nicaragua",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "uyutma",
+    "pays": "Turquie",
+    "ingrédients": "figue"
+  },
+  {
+    "plat": "Q27998933",
+    "pays": "Arménie",
+    "ingrédients": "sucre, cannelle, noyer commun, pêche"
+  },
+  {
+    "plat": "tarte aux pralines",
+    "pays": "France",
+    "ingrédients": "praline"
+  },
+  {
+    "plat": "Narkel Naru",
+    "pays": "Inde",
+    "ingrédients": "sucre, noix de coco"
+  },
+  {
+    "plat": "Chhena Mudki",
+    "pays": "Inde",
+    "ingrédients": "sucre, semoule, Chhena"
+  },
+  {
+    "plat": "Q60499622",
+    "pays": "Pérou",
+    "ingrédients": "lait, cannelle, lait concentré"
+  },
+  {
+    "plat": "revani",
+    "pays": "Empire ottoman",
+    "ingrédients": "sucre, yaourt, farine, œuf, semoule"
+  },
+  {
+    "plat": "cassoulet",
+    "pays": "France",
+    "ingrédients": "ragoût"
+  },
+  {
+    "plat": "pot-au-feu",
+    "pays": "France",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "carbonade flamande",
+    "pays": "Belgique",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Sambar",
+    "pays": "Inde",
+    "ingrédients": "Tamarinier"
+  },
+  {
+    "plat": "strudel aux pommes",
+    "pays": "Italie, Autriche",
+    "ingrédients": "pomme"
+  },
+  {
+    "plat": "Civet de lièvre",
+    "pays": "Allemagne",
+    "ingrédients": "lapin, hare"
+  },
+  {
+    "plat": "Dolma",
+    "pays": "Turquie, Azerbaïdjan",
+    "ingrédients": "Ardei umpluţi, stuffed eggplant"
+  },
+  {
+    "plat": "Đuveč",
+    "pays": "Turquie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Lecsó",
+    "pays": "Hongrie",
+    "ingrédients": "paprika"
+  },
+  {
+    "plat": "Daube provençale",
+    "pays": "France",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "obara",
+    "pays": "Slovénie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Kho",
+    "pays": "Viêt Nam",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "jambon serrano",
+    "pays": "Espagne",
+    "ingrédients": "jambon"
+  },
+  {
+    "plat": "Fesenjān",
+    "pays": "Iran",
+    "ingrédients": "jus de grenade"
+  },
+  {
+    "plat": "bibim guksu",
+    "pays": "Corée",
+    "ingrédients": "sōmen"
+  },
+  {
+    "plat": "Bollito misto",
+    "pays": "Italie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Coto Makassar",
+    "pays": "Indonésie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Chili con carne",
+    "pays": "Mexique",
+    "ingrédients": "piment"
+  },
+  {
+    "plat": "Tajine",
+    "pays": "Maroc",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Feijoada",
+    "pays": "Portugal",
+    "ingrédients": "haricot noir"
+  },
+  {
+    "plat": "Fårikål",
+    "pays": "Norvège",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Bosnian pot",
+    "pays": "Bosnie-Herzégovine",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Gaisburger Marsch",
+    "pays": "Allemagne",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Birnen, Bohnen und Speck",
+    "pays": "Allemagne",
+    "ingrédients": "Pyrus"
+  },
+  {
+    "plat": "Fabada asturiana",
+    "pays": "Espagne",
+    "ingrédients": "chorizo, Q5779639, Q6023586, Faba asturiana"
+  },
+  {
+    "plat": "Pörkölt",
+    "pays": "Hongrie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "chaudrée",
+    "pays": "États-Unis",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Ndolé",
+    "pays": "Cameroun",
+    "ingrédients": "fruit à coque"
+  },
+  {
+    "plat": "Istrian stew",
+    "pays": "Croatie",
+    "ingrédients": "légume sec"
+  },
+  {
+    "plat": "gombo",
+    "pays": "États-Unis",
+    "ingrédients": "Roux, poivron, filé, oignon, Abelmoschus esculentus, céleri"
+  },
+  {
+    "plat": "Blanquette de veau",
+    "pays": "France",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Wat",
+    "pays": "Éthiopie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Ghormeh-sabzi",
+    "pays": "Iran",
+    "ingrédients": "persil, haricot commun, Fenugrec, fines herbes, coriander seed"
+  },
+  {
+    "plat": "Tcholent",
+    "pays": "Israël, Afrique du Nord",
+    "ingrédients": "viande, pomme de terre, Fabaceae"
+  },
+  {
+    "plat": "Lobio",
+    "pays": "Géorgie",
+    "ingrédients": "légume sec"
+  },
+  {
+    "plat": "Ají de gallina",
+    "pays": "Pérou",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Shiro",
+    "pays": "Érythrée",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "Navarin",
+    "pays": "France",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Axoa",
+    "pays": "France",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Andrajos",
+    "pays": "Espagne",
+    "ingrédients": "lapin"
+  },
+  {
+    "plat": "Charquican",
+    "pays": "Chili, Argentine, Pérou, Bolivie",
+    "ingrédients": "Charqui"
+  },
+  {
+    "plat": "Potjiekos",
+    "pays": "Afrique du Sud",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "mafé",
+    "pays": "Mali",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Rasol",
+    "pays": "Roumanie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Hachee",
+    "pays": "Pays-Bas",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Gardiane",
+    "pays": "France",
+    "ingrédients": "vin rouge, Camargue"
+  },
+  {
+    "plat": "Ghapama",
+    "pays": "Arménie",
+    "ingrédients": "riz, citrouille"
+  },
+  {
+    "plat": "Ciambotta",
+    "pays": "Italie",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "sandwich au jambon et fromage",
+    "pays": "Portugal",
+    "ingrédients": "fromage, pain de mie, jambon"
+  },
+  {
+    "plat": "Pecora alla cottora",
+    "pays": "Italie",
+    "ingrédients": "mutton"
+  },
+  {
+    "plat": "Callos",
+    "pays": "Espagne",
+    "ingrédients": "tripes"
+  },
+  {
+    "plat": "Dimlama",
+    "pays": "Kirghizistan",
+    "ingrédients": "carotte, viande, pomme de terre, oignon, Brassica olearacea"
+  },
+  {
+    "plat": "Fricot (plat acadien)",
+    "pays": "Acadie (Nouvelle-France)",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Porotos granados",
+    "pays": "Chili",
+    "ingrédients": "flageolet"
+  },
+  {
+    "plat": "Paomo",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Scouse",
+    "pays": "Norvège, Royaume-Uni",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Southern chicken stew",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Q16610987",
+    "pays": "Italie",
+    "ingrédients": "viande d'âne"
+  },
+  {
+    "plat": "brown stew chicken",
+    "pays": "Barbade, Trinité-et-Tobago, Sainte-Lucie, Jamaïque, Grenade, Antigua-et-Barbuda, Dominique",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Pommes de terre à la lyonnaise",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "ravioli",
+    "pays": "Italie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tortellini",
+    "pays": "Italie",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "frite",
+    "pays": "Belgique",
+    "ingrédients": "sel, huile végétale, pomme de terre"
+  },
+  {
+    "plat": "Kroppkaka",
+    "pays": "Suède",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Mandu",
+    "pays": "Goryeo",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Vol-au-vent",
+    "pays": "France",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "Pickert",
+    "pays": "Allemagne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Ajiaco",
+    "pays": "Colombie",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Buuz",
+    "pays": "Mongolie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Wonton",
+    "pays": "République populaire de Chine",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Rösti",
+    "pays": "Suisse",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Jiaozi",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Xiaolongbao",
+    "pays": "République populaire de Chine",
+    "ingrédients": "pâte, viande de porc"
+  },
+  {
+    "plat": "Songpyeon",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "har gow",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Pousse de bambou, shrimp"
+  },
+  {
+    "plat": "Dango",
+    "pays": "Japon",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Bryndzové halušky",
+    "pays": "Slovaquie",
+    "ingrédients": "Halušky"
+  },
+  {
+    "plat": "Caponata",
+    "pays": "Italie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Khuushuur",
+    "pays": "Mongolie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Baozi",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Khach",
+    "pays": "Moyen-Orient",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Kopytka",
+    "pays": "Pologne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "gratin dauphinois",
+    "pays": "France",
+    "ingrédients": "pomme de terre, crème fraîche"
+  },
+  {
+    "plat": "thiéboudiène",
+    "pays": "Sénégal",
+    "ingrédients": "poisson, riz, sauce tomate"
+  },
+  {
+    "plat": "Pelmeni",
+    "pays": "Russie",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Shaomai",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Rat na",
+    "pays": "Thaïlande",
+    "ingrédients": "Shahe fen"
+  },
+  {
+    "plat": "Crab rangoon",
+    "pays": "États-Unis",
+    "ingrédients": "Wonton"
+  },
+  {
+    "plat": "pâté en croûte",
+    "pays": "France",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "Q3738344",
+    "pays": "Italie",
+    "ingrédients": "conserve de tomates, white kidney bean"
+  },
+  {
+    "plat": "Sebada",
+    "pays": "Italie",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Chapalele",
+    "pays": "Chili",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Friand",
+    "pays": "France",
+    "ingrédients": "Beurre noisette"
+  },
+  {
+    "plat": "phat si io",
+    "pays": "Thaïlande",
+    "ingrédients": "Shahe fen"
+  },
+  {
+    "plat": "Mi krop",
+    "pays": "Thaïlande",
+    "ingrédients": "nouilles de riz"
+  },
+  {
+    "plat": "Gujia",
+    "pays": "Inde",
+    "ingrédients": "semoule"
+  },
+  {
+    "plat": "Strapačky",
+    "pays": "Slovaquie",
+    "ingrédients": "Halušky"
+  },
+  {
+    "plat": "bouchée à la reine",
+    "pays": "France",
+    "ingrédients": "quenelle, pâte feuilletée, Ris de veau, champignon, viande de poulet, croustade, sauce blanche"
+  },
+  {
+    "plat": "Lentilles au chorizo",
+    "pays": "Espagne",
+    "ingrédients": "chorizo, laurier, lentil"
+  },
+  {
+    "plat": "boat noodles",
+    "pays": "Thaïlande",
+    "ingrédients": "sauce soja"
+  },
+  {
+    "plat": "Bánh bột lọc",
+    "pays": "Viêt Nam",
+    "ingrédients": "tapioca, pork belly, shrimp"
+  },
+  {
+    "plat": "Orez Shu'it",
+    "pays": "Israël",
+    "ingrédients": "Rice and beans"
+  },
+  {
+    "plat": "Fondant potatoes",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Gnudi",
+    "pays": "Italie",
+    "ingrédients": "Ricotta"
+  },
+  {
+    "plat": "goat water",
+    "pays": "Montserrat",
+    "ingrédients": "viande de chèvre"
+  },
+  {
+    "plat": "cruschi peppers",
+    "pays": "Italie",
+    "ingrédients": "Q3899361"
+  },
+  {
+    "plat": "Q61964538",
+    "pays": "Bolivie",
+    "ingrédients": "Neowerdermannia vorwerkii"
+  },
+  {
+    "plat": "Q65564214",
+    "pays": "Pérou",
+    "ingrédients": "arachide, pomme de terre, Pied de cochon"
+  },
+  {
+    "plat": "pâté aux pommes de terre",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "fideuà",
+    "pays": "Espagne",
+    "ingrédients": "eau, chlorure de sodium, vermicelle, huile d'olive, produit de la mer, Sepia, Moule zébrée, crevette"
+  },
+  {
+    "plat": "gnocchi",
+    "pays": "Italie",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "sushi",
+    "pays": "Japon",
+    "ingrédients": "Gohan"
+  },
+  {
+    "plat": "Sauerbraten",
+    "pays": "Belgique, Allemagne",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Smørrebrød",
+    "pays": "Danemark",
+    "ingrédients": "rugbrød"
+  },
+  {
+    "plat": "stoemp",
+    "pays": "Belgique",
+    "ingrédients": "pomme de terre, légume"
+  },
+  {
+    "plat": "Poutine",
+    "pays": "Canada",
+    "ingrédients": "frite, Sauce au jus de viande, fromage en grains"
+  },
+  {
+    "plat": "Canard laqué de Pékin",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de canard, Canard de Pékin"
+  },
+  {
+    "plat": "Quarkkäulchen",
+    "pays": "Allemagne",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "chorrillana",
+    "pays": "Chili",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Bauernfrühstück",
+    "pays": "Allemagne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Kartoffelkäse",
+    "pays": "Autriche",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Funeral potatoes",
+    "pays": "États-Unis",
+    "ingrédients": "Hash browns"
+  },
+  {
+    "plat": "Œuf mimosa",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Tarte carélienne",
+    "pays": "Finlande",
+    "ingrédients": "riz au lait, pain de seigle, pomme de terre"
+  },
+  {
+    "plat": "Waterzooï",
+    "pays": "Belgique",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Toast Hawaï",
+    "pays": "République fédérale d'Allemagne",
+    "ingrédients": "pain grillé"
+  },
+  {
+    "plat": "patate douce rôtie",
+    "pays": "République populaire de Chine",
+    "ingrédients": "patate douce"
+  },
+  {
+    "plat": "Nikujaga",
+    "pays": "Japon, République populaire de Chine",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Baeckeoffe",
+    "pays": "France",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Gamjajeon",
+    "pays": "Corée",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Ulmyeon",
+    "pays": "République populaire de Chine",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "maeuntang",
+    "pays": "Corée",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Kottenbutter",
+    "pays": "Allemagne",
+    "ingrédients": "Pain complet"
+  },
+  {
+    "plat": "jeotgal",
+    "pays": "Corée",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Crocchè",
+    "pays": "Italie",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Colcannon",
+    "pays": "Irlande",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "bâtonnet de crâbe",
+    "pays": "Japon",
+    "ingrédients": "Surimi"
+  },
+  {
+    "plat": "Korokke",
+    "pays": "Japon",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Moules-frites",
+    "pays": "Belgique",
+    "ingrédients": "frite, moules marinières"
+  },
+  {
+    "plat": "Spaghetti alle vongole",
+    "pays": "Italie",
+    "ingrédients": "spaghetti"
+  },
+  {
+    "plat": "calzone",
+    "pays": "Italie",
+    "ingrédients": "Ricotta"
+  },
+  {
+    "plat": "ocopa",
+    "pays": "Pérou",
+    "ingrédients": "Tagetes minuta, fromage à pâte fraîche, lait concentré non sucré, Capsicum baccatum ‘Aji Amarillo’"
+  },
+  {
+    "plat": "Curanto",
+    "pays": "Chili",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Cioppino",
+    "pays": "États-Unis",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Sol over Gudhjem",
+    "pays": "Danemark",
+    "ingrédients": "rugbrød"
+  },
+  {
+    "plat": "Q3937030",
+    "pays": "Italie",
+    "ingrédients": "riz, pomme de terre"
+  },
+  {
+    "plat": "Oreo",
+    "pays": "Chili",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Balchão",
+    "pays": "Inde",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Banh canh",
+    "pays": "Viêt Nam",
+    "ingrédients": "tapioca"
+  },
+  {
+    "plat": "cheese dream",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Kaeng som",
+    "pays": "Thaïlande",
+    "ingrédients": "pâte de curry, tamarin"
+  },
+  {
+    "plat": "seafood pizza",
+    "pays": "Italie",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Q20024826",
+    "pays": "Pérou",
+    "ingrédients": "fromage, maïs, oignon, tomate, Habas, pomme de terre"
+  },
+  {
+    "plat": "Mücendra pilavı",
+    "pays": "Chypre du Nord",
+    "ingrédients": "riz, oignon, lentil"
+  },
+  {
+    "plat": "Janssons frestelse",
+    "pays": "Suède",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Rumbledethumps",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Vindaloo",
+    "pays": "Inde",
+    "ingrédients": "vinaigre"
+  },
+  {
+    "plat": "Stovies",
+    "pays": "Écosse",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Hutspot",
+    "pays": "Pays-Bas",
+    "ingrédients": "carotte, oignon, Tushonka, pomme de terre"
+  },
+  {
+    "plat": "Hash browns",
+    "pays": "États-Unis",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Skordaliá",
+    "pays": "Grèce",
+    "ingrédients": "ail"
+  },
+  {
+    "plat": "Pommes Anna",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Frico",
+    "pays": "Italie",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "Paprikás krumpli",
+    "pays": "Hongrie",
+    "ingrédients": "paprika, oignon, pomme de terre, Kolbász"
+  },
+  {
+    "plat": "Cottage pie",
+    "pays": "Irlande, Royaume-Uni",
+    "ingrédients": "viande, pomme de terre, purée de pommes de terre"
+  },
+  {
+    "plat": "Patates braves",
+    "pays": "Espagne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "mitraillette",
+    "pays": "Belgique",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Boxty",
+    "pays": "Irlande",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Aloo tikki",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Papa rellena",
+    "pays": "Pérou",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Bonda",
+    "pays": "Inde",
+    "ingrédients": "farine de pois chiche"
+  },
+  {
+    "plat": "Hachis parmentier",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Aloo chaat",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Aloo gosht",
+    "pays": "Pakistan",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Aloo paratha",
+    "pays": "Pendjab",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Aloo matar",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Aloo pie",
+    "pays": "Trinité-et-Tobago",
+    "ingrédients": "pâtisserie"
+  },
+  {
+    "plat": "Milcao",
+    "pays": "Chili",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Batata vada",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Batata harra",
+    "pays": "Liban",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "champ (mets)",
+    "pays": "Irlande",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Dum aloo",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Patatnik",
+    "pays": "Bulgarie",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Scone de pommes de terre",
+    "pays": "Écosse",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Truffade",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "gamja-ongsimi",
+    "pays": "Corée",
+    "ingrédients": "raviole"
+  },
+  {
+    "plat": "Llapingacho",
+    "pays": "Équateur",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Pain maori",
+    "pays": "Nouvelle-Zélande",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Pommes dauphine",
+    "pays": "France",
+    "ingrédients": "purée de pommes de terre, pâte à choux"
+  },
+  {
+    "plat": "Potato skins",
+    "pays": "États-Unis",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Poutine râpée",
+    "pays": "Canada",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Pâté chinois",
+    "pays": "Canada",
+    "ingrédients": "bœuf haché"
+  },
+  {
+    "plat": "Péla",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "croque-madame",
+    "pays": "France",
+    "ingrédients": "œuf, pain de mie, jambon, emmental"
+  },
+  {
+    "plat": "Aşure",
+    "pays": "Turquie",
+    "ingrédients": "grains comestible"
+  },
+  {
+    "plat": "Gado-gado",
+    "pays": "Indonésie, betawi",
+    "ingrédients": "légume, œuf, Saté"
+  },
+  {
+    "plat": "stroopwafel",
+    "pays": "Pays-Bas",
+    "ingrédients": "pâte, sirop"
+  },
+  {
+    "plat": "Bouillie de pois",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "pois cassés"
+  },
+  {
+    "plat": "Gruau de fruit",
+    "pays": "Danemark",
+    "ingrédients": "fécule de pomme de terre"
+  },
+  {
+    "plat": "Pizza napoletana",
+    "pays": "Italie",
+    "ingrédients": "mozzarella, tomate"
+  },
+  {
+    "plat": "pizza marinara",
+    "pays": "Italie",
+    "ingrédients": "huile d'olive, Origanum vulgare, tomate, tête d'ail"
+  },
+  {
+    "plat": "Panna cotta",
+    "pays": "Italie",
+    "ingrédients": "sucre, crème, gélatine"
+  },
+  {
+    "plat": "Welf pudding",
+    "pays": "Allemagne",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Spotted dick",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Suet"
+  },
+  {
+    "plat": "kamby arro",
+    "pays": "Paraguay",
+    "ingrédients": "riz, lait de vache"
+  },
+  {
+    "plat": "Yorkshire pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "lait de vache"
+  },
+  {
+    "plat": "diplomat pudding",
+    "pays": "Hongrie",
+    "ingrédients": "Boudoir"
+  },
+  {
+    "plat": "Pouding au blanc de poulet",
+    "pays": "Turquie",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Götterspeise",
+    "pays": "Allemagne",
+    "ingrédients": "gélatine"
+  },
+  {
+    "plat": "hasty pudding",
+    "pays": "États-Unis",
+    "ingrédients": "céréale"
+  },
+  {
+    "plat": "Kugelis",
+    "pays": "Lituanie",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Put chai ko",
+    "pays": "Hong Kong",
+    "ingrédients": "cuisson à la vapeur"
+  },
+  {
+    "plat": "Rømmegrøt",
+    "pays": "Norvège",
+    "ingrédients": "crème aigre"
+  },
+  {
+    "plat": "Cơm rượu",
+    "pays": "Viêt Nam",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Blodpalt",
+    "pays": "Finlande",
+    "ingrédients": "sang"
+  },
+  {
+    "plat": "Tiết canh",
+    "pays": "Viêt Nam",
+    "ingrédients": "sang"
+  },
+  {
+    "plat": "Rag pudding",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Groaty Pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "gruau"
+  },
+  {
+    "plat": "Kalamai",
+    "pays": "Guam, Îles Mariannes",
+    "ingrédients": "masa"
+  },
+  {
+    "plat": "haupia",
+    "pays": "Hawaï",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "bebinca",
+    "pays": "Inde",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Mango pudding",
+    "pays": "Inde",
+    "ingrédients": "agar-agar"
+  },
+  {
+    "plat": "Rožata",
+    "pays": "Croatie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Teurgoule",
+    "pays": "France",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Espasol",
+    "pays": "Philippines",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Palitaw",
+    "pays": "Philippines",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Bazeen",
+    "pays": "Libye",
+    "ingrédients": "eau, sel, barley"
+  },
+  {
+    "plat": "Kulolo",
+    "pays": "États-Unis",
+    "ingrédients": "taro"
+  },
+  {
+    "plat": "Ekmek kadayıfı",
+    "pays": "Turquie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Bakewell pudding",
+    "pays": "Angleterre",
+    "ingrédients": "confiture, œuf, almond paste, flaky pastry"
+  },
+  {
+    "plat": "banana pudding",
+    "pays": "États-Unis",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Black sesame rice cake",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz blanc"
+  },
+  {
+    "plat": "bread and butter pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Brown Betty",
+    "pays": "États-Unis",
+    "ingrédients": "Chapelure"
+  },
+  {
+    "plat": "Bánh chuối",
+    "pays": "Viêt Nam",
+    "ingrédients": "banane"
+  },
+  {
+    "plat": "Chocolate Biscuit pudding",
+    "pays": "Sri Lanka",
+    "ingrédients": "Marie biscuit"
+  },
+  {
+    "plat": "clootie dumpling",
+    "pays": "Écosse",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Dock pudding",
+    "pays": "Angleterre",
+    "ingrédients": "Persicaria bistorta"
+  },
+  {
+    "plat": "Doodhpak",
+    "pays": "Inde",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Dutch baby pancake",
+    "pays": "États-Unis",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Scrapple",
+    "pays": "États-Unis",
+    "ingrédients": "mush"
+  },
+  {
+    "plat": "Eve's pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Figgy duff",
+    "pays": "Canada",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "fruit hat",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Suet"
+  },
+  {
+    "plat": "red pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "lard"
+  },
+  {
+    "plat": "Steak and kidney pudding",
+    "pays": "Angleterre",
+    "ingrédients": "Suet"
+  },
+  {
+    "plat": "Sticky toffee pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Suet pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Suet"
+  },
+  {
+    "plat": "Sussex Pond Pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Suet"
+  },
+  {
+    "plat": "Mouhallabié",
+    "pays": "Turquie",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Zerde",
+    "pays": "Turquie",
+    "ingrédients": "safran"
+  },
+  {
+    "plat": "Risalamande",
+    "pays": "Danemark",
+    "ingrédients": "riz au lait"
+  },
+  {
+    "plat": "Figgy pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Ficus"
+  },
+  {
+    "plat": "Serradura",
+    "pays": "Portugal",
+    "ingrédients": "crème fouettée"
+  },
+  {
+    "plat": "Tembleque",
+    "pays": "États-Unis",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "Malvern pudding",
+    "pays": "Royaume-Uni",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "soufflé au fromage",
+    "pays": "France",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "Burger King Crispy Chicken Tenders",
+    "pays": "États-Unis",
+    "ingrédients": "poulet"
+  },
+  {
+    "plat": "lasagnes",
+    "pays": "Italie",
+    "ingrédients": "Parmigiano Reggiano, sauce béchamel, sauce tomate, lasagne, ragù"
+  },
+  {
+    "plat": "Macaroni au fromage",
+    "pays": "Royaume-Uni",
+    "ingrédients": "macaroni, beurre, cheddar, farine de blé, cheddar sauce"
+  },
+  {
+    "plat": "Pasta alla Norma",
+    "pays": "Italie",
+    "ingrédients": "pâtes, ricotta salata, aubergine, tomate"
+  },
+  {
+    "plat": "Japchae",
+    "pays": "Corée",
+    "ingrédients": "dangmyeon"
+  },
+  {
+    "plat": "túrós csusza",
+    "pays": "Hongrie",
+    "ingrédients": "pâtes"
+  },
+  {
+    "plat": "Pâtes à la carbonara",
+    "pays": "Italie",
+    "ingrédients": "sel, spaghetti, œuf, Guanciale, Pecorino, poivrier"
+  },
+  {
+    "plat": "Jajangmyeon",
+    "pays": "Corée",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Q1260450",
+    "pays": "Italie",
+    "ingrédients": "viande de canard, Bigoli"
+  },
+  {
+    "plat": "Spaghetti alla puttanesca",
+    "pays": "Italie",
+    "ingrédients": "spaghetti, ail, tomate, persil, Origanum vulgare, piment, Anchois, câpre, olive noire"
+  },
+  {
+    "plat": "Bakmi",
+    "pays": "Indonésie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Giouvetsi",
+    "pays": "Grèce",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Pastítsio",
+    "pays": "Grèce",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Penne all'arrabbiata",
+    "pays": "Italie",
+    "ingrédients": "piment, tomate"
+  },
+  {
+    "plat": "Fettuccine Alfredo",
+    "pays": "Italie",
+    "ingrédients": "Fettuccine, alfredo sauce"
+  },
+  {
+    "plat": "Tater Tots",
+    "pays": "États-Unis",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Trinxat",
+    "pays": "Espagne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Naporitan",
+    "pays": "Japon",
+    "ingrédients": "spaghetti"
+  },
+  {
+    "plat": "Pesto alla trapanese",
+    "pays": "Italie",
+    "ingrédients": "sel, amande, Pecorino Siciliano, poivrier, huile d'olive extra vierge, tomate, tête d'ail, basil"
+  },
+  {
+    "plat": "Ragda patties",
+    "pays": "Inde",
+    "ingrédients": "Gesse aphaca"
+  },
+  {
+    "plat": "Pitepalt",
+    "pays": "Suède",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Stargazy pie",
+    "pays": "Angleterre",
+    "ingrédients": "sardine"
+  },
+  {
+    "plat": "Q11715140",
+    "pays": "République tchèque, Tchécoslovaquie",
+    "ingrédients": "quark, pomme de terre"
+  },
+  {
+    "plat": "Kumpir",
+    "pays": "Turquie",
+    "ingrédients": "Pomme de terre au four, pomme de terre"
+  },
+  {
+    "plat": "Patates antinahtes",
+    "pays": "Chypre",
+    "ingrédients": "vin rouge, sel, Huile de maïs, jus de citron, pomme de terre, coriander seed"
+  },
+  {
+    "plat": "kheer",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Tangyuan",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Risotto",
+    "pays": "Italie",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Paella",
+    "pays": "Espagne",
+    "ingrédients": "poulet, riz, lapin, sel, huile d'olive, Agua, Haricot de Lima, haricot vert, tomate, Azafrán"
+  },
+  {
+    "plat": "Takikomigohan",
+    "pays": "Japon, République populaire de Chine",
+    "ingrédients": "Oryza sativa"
+  },
+  {
+    "plat": "Red beans and rice",
+    "pays": "États-Unis",
+    "ingrédients": "haricot rouge"
+  },
+  {
+    "plat": "bibimbap",
+    "pays": "Corée",
+    "ingrédients": "riz, viande, œuf, Gochujang, Namul"
+  },
+  {
+    "plat": "Arroz con pollo",
+    "pays": "Espagne",
+    "ingrédients": "riz, viande de poulet"
+  },
+  {
+    "plat": "Ci fan tuan",
+    "pays": "République populaire de Chine",
+    "ingrédients": "You Tiao"
+  },
+  {
+    "plat": "Zongzi",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Congee",
+    "pays": "Asie",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "idli",
+    "pays": "Inde",
+    "ingrédients": "Haricot urd"
+  },
+  {
+    "plat": "Daifuku",
+    "pays": "Japon",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Sekihan",
+    "pays": "Asie de l'Est",
+    "ingrédients": "riz, Haricot azuki"
+  },
+  {
+    "plat": "Ohagi",
+    "pays": "Japon",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Ketupat",
+    "pays": "Indonésie",
+    "ingrédients": "oryza"
+  },
+  {
+    "plat": "Lemang",
+    "pays": "Indonésie",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Kebsa",
+    "pays": "Yémen",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Kuzhi paniyaram",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Sabzi polo",
+    "pays": "Iran",
+    "ingrédients": "fines herbes"
+  },
+  {
+    "plat": "Warabimochi",
+    "pays": "Japon",
+    "ingrédients": "Pteridium"
+  },
+  {
+    "plat": "Mjadra",
+    "pays": "Israël, Levant",
+    "ingrédients": "riz, onion frit, Lentilles"
+  },
+  {
+    "plat": "Pongal",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Riz au poulet en cocotte d'argile",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz, viande de poulet"
+  },
+  {
+    "plat": "Banana leaf rice",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Mansaf",
+    "pays": "Jordanie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Panta bhat",
+    "pays": "Bangladesh",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Kiribath",
+    "pays": "Sri Lanka",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Pabellón",
+    "pays": "Venezuela",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Agemochi",
+    "pays": "Japon",
+    "ingrédients": "Mochi"
+  },
+  {
+    "plat": "Puttu",
+    "pays": "Sri Lanka",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Xôi",
+    "pays": "Viêt Nam",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Q3998256",
+    "pays": "Italie",
+    "ingrédients": "pesto, trenette, haricot vert, pomme de terre"
+  },
+  {
+    "plat": "Pizza-ghetti",
+    "pays": "Canada",
+    "ingrédients": "pizza"
+  },
+  {
+    "plat": "Akki rotti",
+    "pays": "Inde",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "American chop suey",
+    "pays": "États-Unis",
+    "ingrédients": "macaroni, bœuf haché, sauce tomate"
+  },
+  {
+    "plat": "American goulash",
+    "pays": "États-Unis",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Arroz a la cubana",
+    "pays": "Espagne",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "bún thịt nướng",
+    "pays": "Viêt Nam",
+    "ingrédients": "Vermicelle de riz"
+  },
+  {
+    "plat": "Cacio e pepe",
+    "pays": "Italie",
+    "ingrédients": "pâtes, Pecorino romano, poivrier"
+  },
+  {
+    "plat": "Cao lầu",
+    "pays": "Viêt Nam",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Chicken riggies",
+    "pays": "État de New York",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Chili Cincinnati",
+    "pays": "États-Unis",
+    "ingrédients": "bœuf haché"
+  },
+  {
+    "plat": "Gaifan",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Johnny Marzetti",
+    "pays": "États-Unis",
+    "ingrédients": "macaroni"
+  },
+  {
+    "plat": "Lagane e cicciari",
+    "pays": "Italie",
+    "ingrédients": "pappardelle"
+  },
+  {
+    "plat": "Mì Quảng",
+    "pays": "Viêt Nam",
+    "ingrédients": "nouilles de riz"
+  },
+  {
+    "plat": "Naryn",
+    "pays": "Ouzbékistan",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "pasta al pomodoro",
+    "pays": "Italie",
+    "ingrédients": "pâtes, sauce tomate, basilic"
+  },
+  {
+    "plat": "Pasta primavera",
+    "pays": "Canada",
+    "ingrédients": "pâtes"
+  },
+  {
+    "plat": "Penne alla vodka",
+    "pays": "États-Unis, Italie",
+    "ingrédients": "vodka, crème, tomate, Penne"
+  },
+  {
+    "plat": "Spaghetti with meatballs",
+    "pays": "États-Unis",
+    "ingrédients": "spaghetti, boulette de viande"
+  },
+  {
+    "plat": "Baked ziti",
+    "pays": "Italie",
+    "ingrédients": "Bucatini"
+  },
+  {
+    "plat": "Ciceri e Tria",
+    "pays": "Italie",
+    "ingrédients": "pâtes, pois chiche"
+  },
+  {
+    "plat": "Bigoli in salsa",
+    "pays": "Italie",
+    "ingrédients": "Anchois, Bigoli"
+  },
+  {
+    "plat": "spaghetti alla Nerano",
+    "pays": "Italie",
+    "ingrédients": "courgette, spaghetti, Provolone del Monaco"
+  },
+  {
+    "plat": "soupe d'ailerons de requin",
+    "pays": "dynastie Ming",
+    "ingrédients": "shark fin"
+  },
+  {
+    "plat": "soupe de griottes",
+    "pays": "Hongrie",
+    "ingrédients": "Prunus cerasus"
+  },
+  {
+    "plat": "salade niçoise",
+    "pays": "France",
+    "ingrédients": "tomate, Engraulis encrasicolus, œuf à la coque"
+  },
+  {
+    "plat": "Salade grecque",
+    "pays": "Grèce",
+    "ingrédients": "sel, huile d'olive, olive, concombre, oignon, tomate"
+  },
+  {
+    "plat": "salade César",
+    "pays": "Italie",
+    "ingrédients": "poivre, huile d'olive, œuf, Parmigiano Reggiano, sauce Worcestershire, croûton, jus de citron, laitue romaine"
+  },
+  {
+    "plat": "Wurstsalat",
+    "pays": "Allemagne",
+    "ingrédients": "saucisse"
+  },
+  {
+    "plat": "salade caprese",
+    "pays": "Italie",
+    "ingrédients": "mozzarella, huile d'olive, tomate, basilic"
+  },
+  {
+    "plat": "Salade Chopska",
+    "pays": "Bulgarie",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Pizza hawaïenne",
+    "pays": "Canada",
+    "ingrédients": "fromage, sauce tomate, ananas"
+  },
+  {
+    "plat": "taboulé",
+    "pays": "Liban",
+    "ingrédients": "tomate, persil"
+  },
+  {
+    "plat": "cheeseburger",
+    "pays": "États-Unis",
+    "ingrédients": "fromage, steak haché, bun"
+  },
+  {
+    "plat": "Tangpyeongchae",
+    "pays": "Corée",
+    "ingrédients": "nokdu-muk"
+  },
+  {
+    "plat": "egg waffle",
+    "pays": "République populaire de Chine, Hong Kong",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "chef salad",
+    "pays": "États-Unis",
+    "ingrédients": "fromage, concombre, tomate, œuf à la coque"
+  },
+  {
+    "plat": "coleslaw",
+    "pays": "États-Unis",
+    "ingrédients": "chou blanc"
+  },
+  {
+    "plat": "Kısır",
+    "pays": "Turquie",
+    "ingrédients": "boulghour"
+  },
+  {
+    "plat": "Donut burger",
+    "pays": "États-Unis",
+    "ingrédients": "donut"
+  },
+  {
+    "plat": "Salade Cobb",
+    "pays": "États-Unis",
+    "ingrédients": "poulet, fromage, lard, œuf, Lactuca, vinaigrette, avocat, tomate"
+  },
+  {
+    "plat": "Loco Moco",
+    "pays": "États-Unis",
+    "ingrédients": "Riz pilaf"
+  },
+  {
+    "plat": "Fatouche",
+    "pays": "Cuisine levantine",
+    "ingrédients": "pain pita"
+  },
+  {
+    "plat": "gaufre de Bruxelles",
+    "pays": "Belgique",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Pljeskavica",
+    "pays": "Serbie",
+    "ingrédients": "sel, oignon, poivre, viande de porc, viande bovine"
+  },
+  {
+    "plat": "Gaufre de pommes de terre",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Salmagundi",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Matbucha",
+    "pays": "Turquie",
+    "ingrédients": "Capsicum annuum, ail, tomate, piment"
+  },
+  {
+    "plat": "panzanella",
+    "pays": "Italie",
+    "ingrédients": "pain, tomate"
+  },
+  {
+    "plat": "Hareng en fourrure",
+    "pays": "Russie",
+    "ingrédients": "carotte, pomme de terre, œuf, oignon, betterave, mayonnaise, Clupea"
+  },
+  {
+    "plat": "Escalivada",
+    "pays": "Espagne",
+    "ingrédients": "oignon, poivron, aubergine"
+  },
+  {
+    "plat": "Pasembur",
+    "pays": "Inde",
+    "ingrédients": "concombre"
+  },
+  {
+    "plat": "Israeli salad",
+    "pays": "Palestine",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Piyaz",
+    "pays": "Turquie",
+    "ingrédients": "oignon, Phaseolus, œuf à la coque"
+  },
+  {
+    "plat": "salade du aubergine",
+    "pays": "Turquie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Lap",
+    "pays": "Laos",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Mesclun",
+    "pays": "France",
+    "ingrédients": "Cerfeuil commun"
+  },
+  {
+    "plat": "mini-burger",
+    "pays": "États-Unis",
+    "ingrédients": "bun"
+  },
+  {
+    "plat": "Pizza di scarola",
+    "pays": "Italie",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "Salade cauchoise",
+    "pays": "France",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Salade méchouia",
+    "pays": "Tunisie",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Salade serbe",
+    "pays": "Serbie",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Esgarrat",
+    "pays": "Espagne",
+    "ingrédients": "poivron"
+  },
+  {
+    "plat": "mimosa salad",
+    "pays": "Russie",
+    "ingrédients": "canned fish"
+  },
+  {
+    "plat": "Morkovcha",
+    "pays": "Russie, Asie centrale",
+    "ingrédients": "Daucus"
+  },
+  {
+    "plat": "Jucy Lucy",
+    "pays": "États-Unis",
+    "ingrédients": "hamburger"
+  },
+  {
+    "plat": "escalope à la milanaise",
+    "pays": "Italie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "croissant",
+    "pays": "France",
+    "ingrédients": "pâte feuilletée, beurre"
+  },
+  {
+    "plat": "Anpan",
+    "pays": "Japon",
+    "ingrédients": "Anko"
+  },
+  {
+    "plat": "pain aux raisins",
+    "pays": "France",
+    "ingrédients": "eau, lait, sucre, raisin sec, beurre, farine, œuf, amande, noisette, levure de boulanger, crème pâtissière"
+  },
+  {
+    "plat": "Rosbif",
+    "pays": "Angleterre",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "brioche",
+    "pays": "France",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tonkatsu",
+    "pays": "Japon",
+    "ingrédients": "porc"
+  },
+  {
+    "plat": "pain au chocolat",
+    "pays": "France",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "Q1741570",
+    "pays": "Autriche",
+    "ingrédients": "sucre, cannelle, beurre, farine, œuf, amande"
+  },
+  {
+    "plat": "chouquette",
+    "pays": "France",
+    "ingrédients": "pâte à choux"
+  },
+  {
+    "plat": "Tapas",
+    "pays": "Espagne",
+    "ingrédients": "Various"
+  },
+  {
+    "plat": "Tortilla de patatas",
+    "pays": "Espagne",
+    "ingrédients": "sel, oignon, huile végétale, œuf de poule, pomme de terre"
+  },
+  {
+    "plat": "Zakouski",
+    "pays": "Russie",
+    "ingrédients": "assiette anglaise"
+  },
+  {
+    "plat": "Chicken lollipop",
+    "pays": "Inde",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "pâté lorrain",
+    "pays": "duché de Lorraine",
+    "ingrédients": "pâte feuilletée, viande de porc"
+  },
+  {
+    "plat": "Veau Оrlov",
+    "pays": "Russie",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Yosenabe",
+    "pays": "Japon",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "S.O.S.",
+    "pays": "Suède",
+    "ingrédients": "Hareng frais"
+  },
+  {
+    "plat": "Baccalà mantecato",
+    "pays": "Italie",
+    "ingrédients": "huile d'olive, stockfish"
+  },
+  {
+    "plat": "azumadon",
+    "pays": "Japon",
+    "ingrédients": "riz, thon"
+  },
+  {
+    "plat": "Kavarma",
+    "pays": "Bulgarie",
+    "ingrédients": "viande, œuf, oignon"
+  },
+  {
+    "plat": "Q22666192",
+    "pays": "Lettonie",
+    "ingrédients": "sucre, sel, farine, levure, œuf, quark"
+  },
+  {
+    "plat": "Bajjaria",
+    "pays": "Syrie",
+    "ingrédients": "Ghî, viande d'agneau"
+  },
+  {
+    "plat": "ciorbă de burtă",
+    "pays": "Roumanie",
+    "ingrédients": "tripes"
+  },
+  {
+    "plat": "Miyan kuka",
+    "pays": "Nigeria",
+    "ingrédients": "Adansonia"
+  },
+  {
+    "plat": "Q28726278",
+    "pays": "Roumanie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Q29452616",
+    "pays": "Italie",
+    "ingrédients": "polenta"
+  },
+  {
+    "plat": "Q30005067",
+    "pays": "Espagne",
+    "ingrédients": "Cynara cardunculus, pomme de terre"
+  },
+  {
+    "plat": "Q30005092",
+    "pays": "Espagne",
+    "ingrédients": "riz, lard, chorizo, haricot commun, Boudin noir, linguiça"
+  },
+  {
+    "plat": "Q30890348",
+    "pays": "Arménie",
+    "ingrédients": "riz, fruit séché, viande de poulet, viande de dinde"
+  },
+  {
+    "plat": "Kolkata biryani",
+    "pays": "Inde",
+    "ingrédients": "riz, œuf, viande de chèvre, viande de poulet, pomme de terre"
+  },
+  {
+    "plat": "Malooga",
+    "pays": "Yémen",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "paczki",
+    "pays": "Pologne",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Pestiño",
+    "pays": "Espagne",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Hyderabadi biryani",
+    "pays": "Inde",
+    "ingrédients": "Oryza sativa"
+  },
+  {
+    "plat": "nonnevot",
+    "pays": "Pays-Bas",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Balep korkun",
+    "pays": "Tibet",
+    "ingrédients": "Tsampa"
+  },
+  {
+    "plat": "Smultring",
+    "pays": "Norvège",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Beignet de pommes de terre",
+    "pays": "États-Unis",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Maple bacon donut",
+    "pays": "États-Unis",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Boston cream doughnut",
+    "pays": "États-Unis",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "cider doughnut",
+    "pays": "États-Unis",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Coconut doughnut",
+    "pays": "Canada",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "mahua",
+    "pays": "République populaire de Chine",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "Shuangbaotai",
+    "pays": "Taïwan",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "buñuelos",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "An-doughnut",
+    "pays": "Japon",
+    "ingrédients": "Anko"
+  },
+  {
+    "plat": "kabkabou",
+    "pays": "Tunisie",
+    "ingrédients": "ail, oignon, safran, huile d'olive, harissa, double concentré de tomates, olive"
+  },
+  {
+    "plat": "potato biryani",
+    "pays": "Inde",
+    "ingrédients": "riz, pomme de terre"
+  },
+  {
+    "plat": "Kalyani biryani",
+    "pays": "Inde",
+    "ingrédients": "riz, viande bovine"
+  },
+  {
+    "plat": "Smažený sýr",
+    "pays": "République tchèque",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "mozzarella sticks",
+    "pays": "États-Unis",
+    "ingrédients": "mozzarella"
+  },
+  {
+    "plat": "Eggs Sardou",
+    "pays": "Louisiane",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "pastel de nata",
+    "pays": "Portugal",
+    "ingrédients": "sucre, farine, œuf, lait de vache"
+  },
+  {
+    "plat": "Gibanica",
+    "pays": "Italie, Serbie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Menemen",
+    "pays": "Turquie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Banitsa",
+    "pays": "Bulgarie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Chakchouka",
+    "pays": "Tunisie",
+    "ingrédients": "œuf, tomate"
+  },
+  {
+    "plat": "Œufs cocotte",
+    "pays": "France, régime méditerranéen",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Huevos rancheros",
+    "pays": "Mexique",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Crespeou",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "çılbır",
+    "pays": "Turquie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Rafanata",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Nasi goreng pattaya",
+    "pays": "Malaisie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Chinese steamed eggs",
+    "pays": "République populaire de Chine",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Fritaja",
+    "pays": "Croatie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Funšterc",
+    "pays": "Slovénie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "gyeran-jjim",
+    "pays": "Corée",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Huevos divorciados",
+    "pays": "Mexique",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Huevos motuleños",
+    "pays": "Mexique",
+    "ingrédients": "tortilla"
+  },
+  {
+    "plat": "Kerak telor",
+    "pays": "Indonésie",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Papo-de-anjo",
+    "pays": "Portugal",
+    "ingrédients": "jaune d'oeuf"
+  },
+  {
+    "plat": "Nasi tumpang",
+    "pays": "Malaisie",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Scotch woodcock",
+    "pays": "Royaume-Uni",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "St. Paul sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "gyeran-ppang",
+    "pays": "Corée du Sud",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Chigirtma",
+    "pays": "Turquie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Thong ek",
+    "pays": "Thaïlande",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Sarma (plat)",
+    "pays": "Empire ottoman",
+    "ingrédients": "Vitis"
+  },
+  {
+    "plat": "thong yip",
+    "pays": "Thaïlande",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Porc au caramel",
+    "pays": "Viêt Nam",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Telur pindang",
+    "pays": "Indonésie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Hainanese curry rice",
+    "pays": "Singapour",
+    "ingrédients": "curry"
+  },
+  {
+    "plat": "Albaloo polo",
+    "pays": "Iran",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Q28682544",
+    "pays": "Japon",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Francesinha",
+    "pays": "Portugal",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Kaiser roll",
+    "pays": "Autriche",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Bosna",
+    "pays": "Autriche",
+    "ingrédients": "pain, Allium, moutarde, Bratwurst, pain blanc"
+  },
+  {
+    "plat": "bánh mì",
+    "pays": "Viêt Nam",
+    "ingrédients": "baguette"
+  },
+  {
+    "plat": "Barros Jarpa",
+    "pays": "Chili",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Fischbrötchen",
+    "pays": "Allemagne",
+    "ingrédients": "Panino, poisson"
+  },
+  {
+    "plat": "Sandwich BLT",
+    "pays": "États-Unis",
+    "ingrédients": "lard, laitue, tomate"
+  },
+  {
+    "plat": "Pork chop bun",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Piggy bun"
+  },
+  {
+    "plat": "Cucumber sandwich",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "Bratwurst",
+    "pays": "Autriche, Allemagne, Rome antique",
+    "ingrédients": "viande de porc, viande bovine, veau"
+  },
+  {
+    "plat": "Porilainen",
+    "pays": "Finlande",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "sandwich au thon",
+    "pays": "États-Unis",
+    "ingrédients": "pain, Thon mayonnaise"
+  },
+  {
+    "plat": "cheesesteak de Philadelphie",
+    "pays": "États-Unis",
+    "ingrédients": "fromage à pâte fondue, bifteck, hoagie roll"
+  },
+  {
+    "plat": "club sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain grillé, lard, viande de dinde, tomate"
+  },
+  {
+    "plat": "panini",
+    "pays": "Italie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Gatsby",
+    "pays": "Afrique du Sud",
+    "ingrédients": "Panino"
+  },
+  {
+    "plat": "Fluffernutter",
+    "pays": "États-Unis",
+    "ingrédients": "Beurre d'arachide"
+  },
+  {
+    "plat": "veggie burger",
+    "pays": "Royaume-Uni",
+    "ingrédients": "soja, lentille cultivée, tofu, condiment"
+  },
+  {
+    "plat": "Chivito",
+    "pays": "Uruguay",
+    "ingrédients": "bun"
+  },
+  {
+    "plat": "Sloppy joe",
+    "pays": "États-Unis",
+    "ingrédients": "bœuf haché"
+  },
+  {
+    "plat": "Muisjes",
+    "pays": "Pays-Bas",
+    "ingrédients": "graine d'anis"
+  },
+  {
+    "plat": "Al pastor",
+    "pays": "Mexique",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Meatball sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain, boulette de viande"
+  },
+  {
+    "plat": "Choripán",
+    "pays": "Argentine",
+    "ingrédients": "chorizo"
+  },
+  {
+    "plat": "Bocadillo",
+    "pays": "Espagne",
+    "ingrédients": "cuisine espagnole"
+  },
+  {
+    "plat": "Sandwiches de miga",
+    "pays": "Argentine",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "Bagel toast",
+    "pays": "Israël",
+    "ingrédients": "bagel"
+  },
+  {
+    "plat": "Sandwich au beurre de cacahuète, banane et bacon",
+    "pays": "États-Unis",
+    "ingrédients": "banane, lard, Beurre d'arachide"
+  },
+  {
+    "plat": "Pan bagnat",
+    "pays": "France",
+    "ingrédients": "tomate, pain blanc"
+  },
+  {
+    "plat": "Guédille",
+    "pays": "États-Unis",
+    "ingrédients": "hot dog bun, homard"
+  },
+  {
+    "plat": "Sandwich Reuben",
+    "pays": "États-Unis",
+    "ingrédients": "choucroute, Corned-beef, pain de seigle, fromage suisse, Russian dressing"
+  },
+  {
+    "plat": "Croissan'Wich",
+    "pays": "États-Unis",
+    "ingrédients": "fromage, lard, œuf, croissant"
+  },
+  {
+    "plat": "Kumru",
+    "pays": "Turquie",
+    "ingrédients": "pain, œuf au plat, Soudjouk, kaşar, tomate"
+  },
+  {
+    "plat": "bacon sandwich",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pain, lard"
+  },
+  {
+    "plat": "Baked bean sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Breakfast sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "po' boy",
+    "pays": "États-Unis",
+    "ingrédients": "Multiple"
+  },
+  {
+    "plat": "Cheese and pickle sandwich",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "chocolate sandwich",
+    "pays": "Mexique",
+    "ingrédients": "chocolat, pain"
+  },
+  {
+    "plat": "Chow mein sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "hamburger"
+  },
+  {
+    "plat": "Dabeli",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Iced bun",
+    "pays": "Royaume-Uni",
+    "ingrédients": "sucre glace"
+  },
+  {
+    "plat": "Kolot",
+    "pays": "Turquie",
+    "ingrédients": "chlorure de sodium, farine, huile alimentaire"
+  },
+  {
+    "plat": "Parker House roll",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Rượu nếp",
+    "pays": "Viêt Nam",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "dak-kkochi",
+    "pays": "Corée du Sud",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Houska",
+    "pays": "République tchèque",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "goulasch",
+    "pays": "royaume de Hongrie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "rāmen",
+    "pays": "Japon",
+    "ingrédients": "preparation of noodles"
+  },
+  {
+    "plat": "Soupe à l'oignon",
+    "pays": "France",
+    "ingrédients": "oignon"
+  },
+  {
+    "plat": "Zōni",
+    "pays": "Japon",
+    "ingrédients": "Mochi"
+  },
+  {
+    "plat": "Flädle",
+    "pays": "Allemagne",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Chicken and dumplings",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Ragout fin",
+    "pays": "France",
+    "ingrédients": "veau"
+  },
+  {
+    "plat": "Q329052",
+    "pays": "Allemagne",
+    "ingrédients": "Sambucus nigra"
+  },
+  {
+    "plat": "Rumford's Soup",
+    "pays": "Bavière",
+    "ingrédients": "orge perlé"
+  },
+  {
+    "plat": "Ajoblanco",
+    "pays": "Espagne",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "soupe miso",
+    "pays": "Japon",
+    "ingrédients": "eau, Miso"
+  },
+  {
+    "plat": "Pozole",
+    "pays": "Mexique",
+    "ingrédients": "Hominy"
+  },
+  {
+    "plat": "Magiritsa",
+    "pays": "Grèce",
+    "ingrédients": "riz, sel, perceuse, viande d'agneau, citron, oignon, œuf de poule"
+  },
+  {
+    "plat": "Solianka",
+    "pays": "Russie",
+    "ingrédients": "viande, bouillon, citron, Pickle, olive"
+  },
+  {
+    "plat": "minestrone",
+    "pays": "Italie, Rome antique",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Cocido lebaniego",
+    "pays": "Espagne",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "Bosintang",
+    "pays": "Corée",
+    "ingrédients": "viande de chien"
+  },
+  {
+    "plat": "Tteokguk",
+    "pays": "Corée",
+    "ingrédients": "Tteok"
+  },
+  {
+    "plat": "Soupe de tortue",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Żurek",
+    "pays": "Pologne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "budae-jjigae",
+    "pays": "Corée",
+    "ingrédients": "saucisse, kimchi, jambon, SPAM, Gochujang"
+  },
+  {
+    "plat": "Yong Tau Foo",
+    "pays": "République populaire de Chine",
+    "ingrédients": "tofu"
+  },
+  {
+    "plat": "Miyeok guk",
+    "pays": "Corée",
+    "ingrédients": "Wakame"
+  },
+  {
+    "plat": "Seolleongtang",
+    "pays": "Corée",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Sinseollo",
+    "pays": "Corée",
+    "ingrédients": "boulette de viande"
+  },
+  {
+    "plat": "Svartsoppa",
+    "pays": "Suède",
+    "ingrédients": "sang"
+  },
+  {
+    "plat": "Caldo verde",
+    "pays": "Portugal, République populaire de Chine",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Manduguk",
+    "pays": "Corée",
+    "ingrédients": "raviole"
+  },
+  {
+    "plat": "bisque",
+    "pays": "France",
+    "ingrédients": "crustacé"
+  },
+  {
+    "plat": "Kiritanpo",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "black soup",
+    "pays": "Grèce",
+    "ingrédients": "porc"
+  },
+  {
+    "plat": "rose hip soup",
+    "pays": "Suède",
+    "ingrédients": "Cynorrhodon"
+  },
+  {
+    "plat": "Sundubu jjigae",
+    "pays": "Corée",
+    "ingrédients": "sun-dubu"
+  },
+  {
+    "plat": "Steckrübeneintopf",
+    "pays": "Allemagne",
+    "ingrédients": "Rutabaga"
+  },
+  {
+    "plat": "Sweet potato soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "patate douce"
+  },
+  {
+    "plat": "Galbitang",
+    "pays": "Corée",
+    "ingrédients": "short ribs"
+  },
+  {
+    "plat": "Tom yam",
+    "pays": "Laos",
+    "ingrédients": "fond"
+  },
+  {
+    "plat": "Yukgaejang",
+    "pays": "Corée",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Rassolnik",
+    "pays": "Russie",
+    "ingrédients": "Pickle"
+  },
+  {
+    "plat": "Jeongol",
+    "pays": "Corée",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Ciorbă de perișoare",
+    "pays": "Roumanie",
+    "ingrédients": "boulette de viande"
+  },
+  {
+    "plat": "Cocido madrilene",
+    "pays": "Espagne",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "bún bò Huế",
+    "pays": "Viêt Nam",
+    "ingrédients": "Vermicelle de riz"
+  },
+  {
+    "plat": "Bouddha saute par-dessus le mur",
+    "pays": "République populaire de Chine",
+    "ingrédients": "shark fin"
+  },
+  {
+    "plat": "Tonjiru",
+    "pays": "Japon",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Pasta e fagioli",
+    "pays": "Italie",
+    "ingrédients": "pâtes, haricot sec"
+  },
+  {
+    "plat": "Tourin",
+    "pays": "France",
+    "ingrédients": "ail"
+  },
+  {
+    "plat": "Vichyssoise",
+    "pays": "France",
+    "ingrédients": "poireau"
+  },
+  {
+    "plat": "Chankonabe",
+    "pays": "Japon",
+    "ingrédients": "Dashi"
+  },
+  {
+    "plat": "Harira",
+    "pays": "Algérie",
+    "ingrédients": "tomate, farine, gousse"
+  },
+  {
+    "plat": "Krupnik",
+    "pays": "Pologne",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Piperade",
+    "pays": "Pays basque",
+    "ingrédients": "oignon"
+  },
+  {
+    "plat": "Ribollita",
+    "pays": "Italie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Pisto",
+    "pays": "Espagne",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "lentil soup",
+    "pays": "Turquie, Palestine",
+    "ingrédients": "eau, épice, lentil"
+  },
+  {
+    "plat": "Avgolemono",
+    "pays": "Italie, Grèce",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "peanut soup",
+    "pays": "Ghana",
+    "ingrédients": "cacahuète"
+  },
+  {
+    "plat": "Olla podrida",
+    "pays": "Espagne",
+    "ingrédients": "pork and beans"
+  },
+  {
+    "plat": "egg bhurji",
+    "pays": "Inde",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Indian omelette",
+    "pays": "Inde",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Urnebes",
+    "pays": "Serbie",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "Lyutika",
+    "pays": "Bulgarie",
+    "ingrédients": "Capsicum"
+  },
+  {
+    "plat": "Maple slaw",
+    "pays": "Canada",
+    "ingrédients": "sirop d'érable"
+  },
+  {
+    "plat": "Nam khao",
+    "pays": "Laos",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "poke",
+    "pays": "États-Unis",
+    "ingrédients": "riz, sashimi, Thon jaune"
+  },
+  {
+    "plat": "Red slaw",
+    "pays": "États-Unis",
+    "ingrédients": "chou blanc"
+  },
+  {
+    "plat": "seven-layer salad",
+    "pays": "États-Unis",
+    "ingrédients": "laitue"
+  },
+  {
+    "plat": "Snow White salad",
+    "pays": "Bulgarie",
+    "ingrédients": "yaourt, perceuse, concombre, tête d'ail"
+  },
+  {
+    "plat": "Thai salads",
+    "pays": "Thaïlande",
+    "ingrédients": "Various"
+  },
+  {
+    "plat": "cheesecake",
+    "pays": "États-Unis",
+    "ingrédients": "sucre, farine, œuf, fromage à pâte fraîche"
+  },
+  {
+    "plat": "crème brûlée",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "crème caramel",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Pizza Margherita",
+    "pays": "Italie",
+    "ingrédients": "chlorure de sodium, mozzarella, Pomodoro S.Marzano dell'Agro Sarnese-Nocerino, huile d'olive extra vierge, basilic"
+  },
+  {
+    "plat": "Bavarois",
+    "pays": "France",
+    "ingrédients": "lait, œuf"
+  },
+  {
+    "plat": "rempeyek",
+    "pays": "Indonésie",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Frangipane",
+    "pays": "France",
+    "ingrédients": "sucre, beurre, œuf, amande, Cookbook:Flour"
+  },
+  {
+    "plat": "Crème catalane",
+    "pays": "Espagne",
+    "ingrédients": "lait, sucre"
+  },
+  {
+    "plat": "shrimp toast",
+    "pays": "République populaire de Chine",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "hongeohoe",
+    "pays": "Corée",
+    "ingrédients": "Okamejei kenojei"
+  },
+  {
+    "plat": "Tarallo",
+    "pays": "Italie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Som tam",
+    "pays": "Laos, Thaïlande",
+    "ingrédients": "citronnier, tomate, Carica papaya, Allium, Phaseolus"
+  },
+  {
+    "plat": "Aligot",
+    "pays": "France",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Watergate salad",
+    "pays": "États-Unis",
+    "ingrédients": "pistachio pudding"
+  },
+  {
+    "plat": "Salade d'ambroisie",
+    "pays": "États-Unis",
+    "ingrédients": "guimauve, noix de coco, ananas"
+  },
+  {
+    "plat": "Crème chiboust",
+    "pays": "France",
+    "ingrédients": "crème pâtissière, meringue italienne"
+  },
+  {
+    "plat": "Quindim",
+    "pays": "Brésil",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Rouleau de nouille de riz",
+    "pays": "Chine",
+    "ingrédients": "nouilles de riz"
+  },
+  {
+    "plat": "Oatcake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "oatmeal"
+  },
+  {
+    "plat": "Dyrlægens natmad",
+    "pays": "Danemark",
+    "ingrédients": "pâté de foie, rugbrød, Q12334407, Q18552259"
+  },
+  {
+    "plat": "Crème diplomate",
+    "pays": "Italie",
+    "ingrédients": "crème pâtissière, crème Chantilly"
+  },
+  {
+    "plat": "Q3893318",
+    "pays": "Italie",
+    "ingrédients": "riz, haricot marbré"
+  },
+  {
+    "plat": "risotto alla pilota",
+    "pays": "Italie",
+    "ingrédients": "Oryza sativa"
+  },
+  {
+    "plat": "eo-mandu",
+    "pays": "Corée",
+    "ingrédients": "whitefish"
+  },
+  {
+    "plat": "candle salad",
+    "pays": "États-Unis",
+    "ingrédients": "laitue"
+  },
+  {
+    "plat": "Risotto à la milanaise",
+    "pays": "Italie",
+    "ingrédients": "riz, Crocus sativus"
+  },
+  {
+    "plat": "stuffed squash",
+    "pays": "Turquie",
+    "ingrédients": "courgette"
+  },
+  {
+    "plat": "Q55832714",
+    "pays": "Italie",
+    "ingrédients": "Q3953085"
+  },
+  {
+    "plat": "kkori-gomtang",
+    "pays": "Corée",
+    "ingrédients": "rabo de toro"
+  },
+  {
+    "plat": "Chick-fil-A Waffle Potato Fries",
+    "pays": "États-Unis",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Consommé",
+    "pays": "France",
+    "ingrédients": "fond"
+  },
+  {
+    "plat": "Tarhana",
+    "pays": "Turquie",
+    "ingrédients": "céréale"
+  },
+  {
+    "plat": "Sayur asem",
+    "pays": "Indonésie",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Rasam",
+    "pays": "Inde",
+    "ingrédients": "lentil"
+  },
+  {
+    "plat": "Khartcho",
+    "pays": "Géorgie",
+    "ingrédients": "riz, viande bovine, noix, Tklapi"
+  },
+  {
+    "plat": "Zosui",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Hōtō",
+    "pays": "Japon",
+    "ingrédients": "soupe miso"
+  },
+  {
+    "plat": "Changua",
+    "pays": "Colombie",
+    "ingrédients": "eau, œuf, lait de vache, Papa, coriander seed, Calado"
+  },
+  {
+    "plat": "bouillon écossais",
+    "pays": "Écosse",
+    "ingrédients": "viande d'agneau, barley"
+  },
+  {
+    "plat": "Bouneschlupp",
+    "pays": "Luxembourg",
+    "ingrédients": "haricot vert"
+  },
+  {
+    "plat": "Garbure",
+    "pays": "France",
+    "ingrédients": "jambon"
+  },
+  {
+    "plat": "Cozido à portuguesa",
+    "pays": "Portugal",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "egg drop soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Haleem",
+    "pays": "Turquie",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "Shambar",
+    "pays": "Pérou",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "Escudella i carn d'olla",
+    "pays": "Espagne",
+    "ingrédients": "carotte, Brassica olearacea, Fasirt, Apium"
+  },
+  {
+    "plat": "Gulyásleves",
+    "pays": "Hongrie",
+    "ingrédients": "viande bovine, paprika, oignon"
+  },
+  {
+    "plat": "Ginataan",
+    "pays": "Philippines",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "sinigang",
+    "pays": "Philippines",
+    "ingrédients": "viande, poisson"
+  },
+  {
+    "plat": "Tinola",
+    "pays": "Philippines",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Diyabath",
+    "pays": "Sri Lanka",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Bagnun",
+    "pays": "Italie",
+    "ingrédients": "Anchois"
+  },
+  {
+    "plat": "Buridda",
+    "pays": "Italie",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Alicot",
+    "pays": "France",
+    "ingrédients": "volaille"
+  },
+  {
+    "plat": "Motsunabe",
+    "pays": "Japon",
+    "ingrédients": "Miso"
+  },
+  {
+    "plat": "wedding soup",
+    "pays": "États-Unis, Italie",
+    "ingrédients": "Q11176730"
+  },
+  {
+    "plat": "Panade",
+    "pays": "Angleterre",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Pappa al pomodoro",
+    "pays": "Italie",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Sayur lodeh",
+    "pays": "Indonésie",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "Chikhirtma",
+    "pays": "Géorgie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "15 bean soup",
+    "pays": "États-Unis",
+    "ingrédients": "légume sec"
+  },
+  {
+    "plat": "Amish preaching soup",
+    "pays": "États-Unis",
+    "ingrédients": "légume sec"
+  },
+  {
+    "plat": "Aush",
+    "pays": "Turquie, Azerbaïdjan, Arménie, Iran, Afghanistan",
+    "ingrédients": "nouille, bouillon"
+  },
+  {
+    "plat": "baeksuk",
+    "pays": "Corée",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Batchoy",
+    "pays": "Philippines",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "lobster stew",
+    "pays": "Espagne",
+    "ingrédients": "homard"
+  },
+  {
+    "plat": "Binignit",
+    "pays": "Philippines",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "Khao poon",
+    "pays": "Laos",
+    "ingrédients": "Vermicelle de riz"
+  },
+  {
+    "plat": "Bún riêu",
+    "pays": "Viêt Nam",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Bún mắm",
+    "pays": "Viêt Nam",
+    "ingrédients": "crevette"
+  },
+  {
+    "plat": "Caldo de pollo",
+    "pays": "Mexique",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Bouillon de côtes",
+    "pays": "Colombie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Caldo de siete mares",
+    "pays": "Mexique",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Ching bo leung",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Coix lacryma-jobi"
+  },
+  {
+    "plat": "Chè bà ba",
+    "pays": "Viêt Nam",
+    "ingrédients": "lait de coco"
+  },
+  {
+    "plat": "Cow cod soup",
+    "pays": "Jamaïque",
+    "ingrédients": "taureau"
+  },
+  {
+    "plat": "Cream Stew",
+    "pays": "Japon",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Draw soup",
+    "pays": "Nigeria",
+    "ingrédients": "gombo"
+  },
+  {
+    "plat": "Noppe",
+    "pays": "Japon",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Oritang",
+    "pays": "Corée",
+    "ingrédients": "viande de canard, canard"
+  },
+  {
+    "plat": "Yeonpotang",
+    "pays": "Corée",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Gazpachuelo",
+    "pays": "Espagne",
+    "ingrédients": "Fumet de poisson"
+  },
+  {
+    "plat": "Hyderabadi Marag",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Isi ewu",
+    "pays": "Nigeria",
+    "ingrédients": "chèvre"
+  },
+  {
+    "plat": "soyo",
+    "pays": "Paraguay",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Kadhi",
+    "pays": "Inde",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Khichra",
+    "pays": "Inde",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "leek soup",
+    "pays": "pays de Galles",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Liver soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Manchow soup",
+    "pays": "Inde",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Mannish water",
+    "pays": "Jamaïque",
+    "ingrédients": "chèvre"
+  },
+  {
+    "plat": "nettle soup",
+    "pays": "Turquie",
+    "ingrédients": "Urtica dioica"
+  },
+  {
+    "plat": "Nihari",
+    "pays": "Bangladesh",
+    "ingrédients": "beef shank"
+  },
+  {
+    "plat": "Ogbono soup",
+    "pays": "Nigeria",
+    "ingrédients": "Irvingia gabonensis"
+  },
+  {
+    "plat": "Ohaw",
+    "pays": "Japon",
+    "ingrédients": "fond"
+  },
+  {
+    "plat": "Caldo tlalpeño",
+    "pays": "Mexique",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "yaourt glacé",
+    "pays": "États-Unis",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "gâteau des Rois",
+    "pays": "Espagne",
+    "ingrédients": "brioche"
+  },
+  {
+    "plat": "Massaman curry",
+    "pays": "Thaïlande",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Nasi goreng",
+    "pays": "Indonésie",
+    "ingrédients": "riz, oryza"
+  },
+  {
+    "plat": "Curry vert",
+    "pays": "Thaïlande",
+    "ingrédients": "lait de coco, green curry paste"
+  },
+  {
+    "plat": "Kimchi-jjigae",
+    "pays": "Corée",
+    "ingrédients": "kimchi"
+  },
+  {
+    "plat": "doenjang-jjigae",
+    "pays": "Corée",
+    "ingrédients": "Doenjang"
+  },
+  {
+    "plat": "Haejangguk",
+    "pays": "Corée",
+    "ingrédients": "pe-tsaï"
+  },
+  {
+    "plat": "saeujeot",
+    "pays": "Corée",
+    "ingrédients": "crevette"
+  },
+  {
+    "plat": "myeolchi-jeot",
+    "pays": "Corée",
+    "ingrédients": "Engraulis japonicus"
+  },
+  {
+    "plat": "panettone",
+    "pays": "Italie",
+    "ingrédients": "raisin sec, farine, fruit confit"
+  },
+  {
+    "plat": "Sundae",
+    "pays": "États-Unis",
+    "ingrédients": "crème glacée"
+  },
+  {
+    "plat": "Bûche de Noël",
+    "pays": "France",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "Burgoo",
+    "pays": "États-Unis",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "jeonbok-juk",
+    "pays": "Corée",
+    "ingrédients": "Abalone"
+  },
+  {
+    "plat": "gomguk",
+    "pays": "Corée",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "gamja-tang",
+    "pays": "Corée",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Pandoro",
+    "pays": "Italie",
+    "ingrédients": "sucre, beurre, farine"
+  },
+  {
+    "plat": "Samgyetang",
+    "pays": "Corée",
+    "ingrédients": "Panax ginseng, viande de poulet"
+  },
+  {
+    "plat": "Gelato",
+    "pays": "Italie",
+    "ingrédients": "lait, sucre, crème"
+  },
+  {
+    "plat": "curry panang",
+    "pays": "Thaïlande",
+    "ingrédients": "lait de coco, cacahuète, pâte de curry"
+  },
+  {
+    "plat": "Semifreddo",
+    "pays": "Italie",
+    "ingrédients": "lait, sucre, crème, œuf"
+  },
+  {
+    "plat": "curry rouge",
+    "pays": "Thaïlande",
+    "ingrédients": "lait de coco, red curry paste"
+  },
+  {
+    "plat": "Cappon magro",
+    "pays": "Italie",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Biscuit Graham",
+    "pays": "États-Unis",
+    "ingrédients": "Graham flour"
+  },
+  {
+    "plat": "jaecheop-guk",
+    "pays": "Corée",
+    "ingrédients": "palourde"
+  },
+  {
+    "plat": "jangguk-juk",
+    "pays": "Corée",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "jogi-jeot",
+    "pays": "Corée",
+    "ingrédients": "Larimichthys polyactis"
+  },
+  {
+    "plat": "Kotlet schabowy",
+    "pays": "Pologne",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Nantong Xiting Cracker",
+    "pays": "Chine",
+    "ingrédients": "sucre, farine, Sesamum"
+  },
+  {
+    "plat": "phat phrik khing",
+    "pays": "Thaïlande",
+    "ingrédients": "piment"
+  },
+  {
+    "plat": "Ry-Krisp",
+    "pays": "États-Unis",
+    "ingrédients": "farine de seigle"
+  },
+  {
+    "plat": "saltine cracker",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "jumeok-bap",
+    "pays": "Corée",
+    "ingrédients": "bap"
+  },
+  {
+    "plat": "bokkeum-bap",
+    "pays": "Corée",
+    "ingrédients": "bap"
+  },
+  {
+    "plat": "riz cantonais",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Gohan"
+  },
+  {
+    "plat": "guljeot",
+    "pays": "Corée",
+    "ingrédients": "huître"
+  },
+  {
+    "plat": "Q43180014",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "torte",
+    "pays": "Espagne",
+    "ingrédients": "crème au beurre"
+  },
+  {
+    "plat": "nougat",
+    "pays": "Italie",
+    "ingrédients": "sucre"
+  },
+  {
+    "plat": "Halászlé",
+    "pays": "Hongrie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Chokladboll",
+    "pays": "Suède",
+    "ingrédients": "sucre, beurre, cacao en poudre, Flocon d'avoine, grated coconut"
+  },
+  {
+    "plat": "Cullen skink",
+    "pays": "Écosse",
+    "ingrédients": "Finnan haddie"
+  },
+  {
+    "plat": "Shiruko",
+    "pays": "Japon",
+    "ingrédients": "Haricot azuki"
+  },
+  {
+    "plat": "Tteok",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Nougatine",
+    "pays": "Italie, République populaire de Chine",
+    "ingrédients": "cacahuète"
+  },
+  {
+    "plat": "Kefta",
+    "pays": "Turquie, Iran",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Hochzeitssuppe",
+    "pays": "Allemagne",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Czernina",
+    "pays": "Pologne",
+    "ingrédients": "sang, viande de canard"
+  },
+  {
+    "plat": "Soto ayam",
+    "pays": "Indonésie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "chaudrée de palourde",
+    "pays": "États-Unis",
+    "ingrédients": "palourde"
+  },
+  {
+    "plat": "Oukha",
+    "pays": "Russie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Yakgwa",
+    "pays": "Corée",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Lohikeitto",
+    "pays": "Finlande",
+    "ingrédients": "poisson, lait, farine, saumon"
+  },
+  {
+    "plat": "Köttbullar",
+    "pays": "Turquie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Fasoláda",
+    "pays": "Grèce",
+    "ingrédients": "haricot commun"
+  },
+  {
+    "plat": "Butterscotch",
+    "pays": "Angleterre",
+    "ingrédients": "sucre brun"
+  },
+  {
+    "plat": "Kuy teav",
+    "pays": "Cambodge",
+    "ingrédients": "nouilles de riz"
+  },
+  {
+    "plat": "Cotriade",
+    "pays": "France",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Fanesca",
+    "pays": "Équateur",
+    "ingrédients": "Courge de Siam"
+  },
+  {
+    "plat": "Ttoro",
+    "pays": "Labourd",
+    "ingrédients": "Merlucciidae, palourde, oignon, Q12265357, tête d'ail"
+  },
+  {
+    "plat": "Saimin",
+    "pays": "États-Unis",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Bermuda fish chowder",
+    "pays": "Bermudes",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Caldillo de congrio",
+    "pays": "Chili",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Coney Island hot dog",
+    "pays": "États-Unis",
+    "ingrédients": "oignon"
+  },
+  {
+    "plat": "duck blood and vermicelli soup",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de canard"
+  },
+  {
+    "plat": "escalope à la viennoise",
+    "pays": "Autriche",
+    "ingrédients": "viande, Chapelure"
+  },
+  {
+    "plat": "peanut butter cup",
+    "pays": "États-Unis",
+    "ingrédients": "chocolat, Beurre d'arachide"
+  },
+  {
+    "plat": "Senate bean soup",
+    "pays": "États-Unis",
+    "ingrédients": "Navy bean"
+  },
+  {
+    "plat": "Sliced fish soup",
+    "pays": "Singapour",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Styrian sour soup",
+    "pays": "Slovénie",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Soto Padang",
+    "pays": "Indonésie",
+    "ingrédients": "Perkedel"
+  },
+  {
+    "plat": "vine leaf roll",
+    "pays": "Turquie",
+    "ingrédients": "tête d'ail"
+  },
+  {
+    "plat": "Ramadan pide",
+    "pays": "Turquie",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Ramyeon",
+    "pays": "Corée du Sud",
+    "ingrédients": "preparation of noodles"
+  },
+  {
+    "plat": "Mahim halwa",
+    "pays": "Inde",
+    "ingrédients": "halva"
+  },
+  {
+    "plat": "Snickers salad",
+    "pays": "États-Unis",
+    "ingrédients": "Snickers"
+  },
+  {
+    "plat": "Bacon Deluxe",
+    "pays": "États-Unis",
+    "ingrédients": "lard"
+  },
+  {
+    "plat": "bun kebab",
+    "pays": "Pakistan",
+    "ingrédients": "lentil"
+  },
+  {
+    "plat": "Celery Victor",
+    "pays": "États-Unis",
+    "ingrédients": "céleri"
+  },
+  {
+    "plat": "Chilean salad",
+    "pays": "Chili",
+    "ingrédients": "oignon, tomate, persil, coriandre"
+  },
+  {
+    "plat": "chili burger",
+    "pays": "États-Unis",
+    "ingrédients": "Chili con carne"
+  },
+  {
+    "plat": "Chimichurri burger",
+    "pays": "République dominicaine",
+    "ingrédients": "Salsa golf, ground pork"
+  },
+  {
+    "plat": "Chinese chicken salad",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Curtido",
+    "pays": "Salvador",
+    "ingrédients": "chou blanc"
+  },
+  {
+    "plat": "rice burger",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "golbaengi-muchim",
+    "pays": "Corée",
+    "ingrédients": "bigorneau"
+  },
+  {
+    "plat": "glorified rice",
+    "pays": "États-Unis",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Sōmen salad",
+    "pays": "Japon",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Salad cream",
+    "pays": "Royaume-Uni",
+    "ingrédients": "huile"
+  },
+  {
+    "plat": "Jello salad",
+    "pays": "États-Unis",
+    "ingrédients": "gélatine"
+  },
+  {
+    "plat": "Kinilnat",
+    "pays": "Philippines",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Kosambari",
+    "pays": "Inde",
+    "ingrédients": "cereal legume"
+  },
+  {
+    "plat": "Monte Cristo sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain, Pâte, œuf, jambon, emmental"
+  },
+  {
+    "plat": "patty melt",
+    "pays": "États-Unis",
+    "ingrédients": "pain de seigle"
+  },
+  {
+    "plat": "Pizza strips",
+    "pays": "États-Unis",
+    "ingrédients": "Origanum vulgare, sauce tomate"
+  },
+  {
+    "plat": "St. Louis-style pizza",
+    "pays": "États-Unis",
+    "ingrédients": "Provel cheese"
+  },
+  {
+    "plat": "pizza capricciosa",
+    "pays": "Italie",
+    "ingrédients": "mozzarella, jambon, olive"
+  },
+  {
+    "plat": "BK Stacker",
+    "pays": "États-Unis",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Pizzetta",
+    "pays": "Italie",
+    "ingrédients": "pain, fromage, sauce tomate"
+  },
+  {
+    "plat": "Devil's food cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tarte Sacher",
+    "pays": "Autriche",
+    "ingrédients": "chocolat"
+  },
+  {
+    "plat": "German chocolate cake",
+    "pays": "États-Unis",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "chirashi",
+    "pays": "Japon",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Funa sushi",
+    "pays": "Japon",
+    "ingrédients": "Carassius carassius"
+  },
+  {
+    "plat": "doubles",
+    "pays": "Trinité-et-Tobago",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Francesinha poveira",
+    "pays": "Portugal",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "fried-brain sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain de mie"
+  },
+  {
+    "plat": "Guajolota",
+    "pays": "Mexique",
+    "ingrédients": "Bolillo"
+  },
+  {
+    "plat": "Rou jia mo (肉夹馍)",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "maki sushi",
+    "pays": "Japon",
+    "ingrédients": "riz, algue"
+  },
+  {
+    "plat": "Horseshoe sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Hot Brown",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "jam sandwich",
+    "pays": "Royaume-Uni",
+    "ingrédients": "confiture, pain"
+  },
+  {
+    "plat": "jibarito",
+    "pays": "Porto Rico",
+    "ingrédients": "banane plantain"
+  },
+  {
+    "plat": "melt sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Mortadella sandwich",
+    "pays": "Italie",
+    "ingrédients": "pain, mortadelle"
+  },
+  {
+    "plat": "pebete",
+    "pays": "Argentine",
+    "ingrédients": "bun"
+  },
+  {
+    "plat": "pistolette",
+    "pays": "États-Unis",
+    "ingrédients": "Panino"
+  },
+  {
+    "plat": "prawn roll",
+    "pays": "Australie",
+    "ingrédients": "pain blanc"
+  },
+  {
+    "plat": "steak sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "steak"
+  },
+  {
+    "plat": "Toast sandwich",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pain grillé, pain"
+  },
+  {
+    "plat": "vegetable sandwich",
+    "pays": "Inde",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Sincronizada",
+    "pays": "Mexique",
+    "ingrédients": "jambon"
+  },
+  {
+    "plat": "wrap roti",
+    "pays": "Trinité-et-Tobago",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Sandwich polonais de Chicago",
+    "pays": "États-Unis",
+    "ingrédients": "bun"
+  },
+  {
+    "plat": "New Jersey sloppy joe",
+    "pays": "États-Unis",
+    "ingrédients": "pain de seigle"
+  },
+  {
+    "plat": "Sailor sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "Pastrami"
+  },
+  {
+    "plat": "Çoban salatası",
+    "pays": "Turquie",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Goma-ae",
+    "pays": "Japon",
+    "ingrédients": "épinard"
+  },
+  {
+    "plat": "Kelan Antep",
+    "pays": "Indonésie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Vinaigrette",
+    "pays": "Russie",
+    "ingrédients": "carotte, oignon, choucroute, betterave, huile végétale, pomme de terre"
+  },
+  {
+    "plat": "Buljol",
+    "pays": "Trinité-et-Tobago",
+    "ingrédients": "morue de l'Atlantique"
+  },
+  {
+    "plat": "şakşuka",
+    "pays": "Turquie",
+    "ingrédients": "tomate, tête d'ail"
+  },
+  {
+    "plat": "Cheese slaw",
+    "pays": "Australie",
+    "ingrédients": "fromage râpé"
+  },
+  {
+    "plat": "Sabich salad",
+    "pays": "Israël",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Israeli eggplant salad",
+    "pays": "Israël",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Q27149881",
+    "pays": "Russie",
+    "ingrédients": "pomme de terre, sel, concombre, oignon, huile d'olive, Clupea, poisson"
+  },
+  {
+    "plat": "arrosticini",
+    "pays": "Italie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Abgoosht",
+    "pays": "Arménie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Kokoreç",
+    "pays": "Turquie",
+    "ingrédients": "Abat"
+  },
+  {
+    "plat": "catfish stew",
+    "pays": "États-Unis",
+    "ingrédients": "Siluriformes"
+  },
+  {
+    "plat": "Fish head casserole",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Fish head"
+  },
+  {
+    "plat": "Ikan bakar",
+    "pays": "Indonésie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Kemplang",
+    "pays": "Indonésie",
+    "ingrédients": "Thazard noir"
+  },
+  {
+    "plat": "Sata",
+    "pays": "Malaisie",
+    "ingrédients": "cocotier"
+  },
+  {
+    "plat": "Amplang",
+    "pays": "Indonésie",
+    "ingrédients": "Thazard noir"
+  },
+  {
+    "plat": "Run down",
+    "pays": "Jamaïque",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Ikan goreng",
+    "pays": "Indonésie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Gulha",
+    "pays": "Maldives",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Huachinango a la Veracruzana",
+    "pays": "Mexique",
+    "ingrédients": "Red Snapper"
+  },
+  {
+    "plat": "Baccalà alla lucana",
+    "pays": "Italie",
+    "ingrédients": "morue, cruschi peppers"
+  },
+  {
+    "plat": "quenelle",
+    "pays": "France",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "katsuobushi",
+    "pays": "Japon, République populaire de Chine",
+    "ingrédients": "Thon listao"
+  },
+  {
+    "plat": "akashiyaki",
+    "pays": "Japon",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Kamaboko",
+    "pays": "Japon",
+    "ingrédients": "Surimi"
+  },
+  {
+    "plat": "fish sauce",
+    "pays": "République populaire de Chine, Inde",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "canh chua",
+    "pays": "Viêt Nam",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Kalakukko",
+    "pays": "Finlande",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "agwijjim",
+    "pays": "Corée",
+    "ingrédients": "Lophiomus setigerus"
+  },
+  {
+    "plat": "Narutomaki",
+    "pays": "Japon",
+    "ingrédients": "Surimi"
+  },
+  {
+    "plat": "lutefisk",
+    "pays": "Norvège",
+    "ingrédients": "Hydroxyde de sodium, morue de l'Atlantique"
+  },
+  {
+    "plat": "Cacciucco",
+    "pays": "Italie",
+    "ingrédients": "bouillon"
+  },
+  {
+    "plat": "Lox",
+    "pays": "États-Unis",
+    "ingrédients": "saumon, Cured salmon"
+  },
+  {
+    "plat": "Kabayaki",
+    "pays": "Japon",
+    "ingrédients": "Anguille"
+  },
+  {
+    "plat": "Sannakji",
+    "pays": "Corée",
+    "ingrédients": "Octopus minor"
+  },
+  {
+    "plat": "Unagi",
+    "pays": "Japon",
+    "ingrédients": "Anguille du Japon, Anguille"
+  },
+  {
+    "plat": "Rendang",
+    "pays": "Indonésie",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Kedgeree",
+    "pays": "Royaume-Uni, Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Hollandse nieuwe",
+    "pays": "Pays-Bas",
+    "ingrédients": "hareng"
+  },
+  {
+    "plat": "koulibiak",
+    "pays": "Russie",
+    "ingrédients": "saumon"
+  },
+  {
+    "plat": "Moqueca de Peixe",
+    "pays": "Brésil",
+    "ingrédients": "produit de la mer"
+  },
+  {
+    "plat": "Caldeirada",
+    "pays": "Portugal",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Amok trey",
+    "pays": "Cambodge",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Bortsch froid",
+    "pays": "Russie",
+    "ingrédients": "betterave, concombre, œuf de poule"
+  },
+  {
+    "plat": "velouté de champignons",
+    "pays": "États-Unis",
+    "ingrédients": "champignon, Roux"
+  },
+  {
+    "plat": "Okrochka",
+    "pays": "Russie",
+    "ingrédients": "Kvas, concombre"
+  },
+  {
+    "plat": "Rogan Josh",
+    "pays": "Iran",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Jingisukan",
+    "pays": "Japon",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "tave kosi",
+    "pays": "Albanie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Murtabak",
+    "pays": "Yémen",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Kebbé nayé",
+    "pays": "Syrie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "korma",
+    "pays": "Inde",
+    "ingrédients": "yaourt"
+  },
+  {
+    "plat": "Smalahove",
+    "pays": "Norvège",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "tchi keufté",
+    "pays": "Turquie, Arménie, Syrie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Sfiha",
+    "pays": "Syrie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Dhansak",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Drob",
+    "pays": "Roumanie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Scotch pie",
+    "pays": "Écosse",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Sosatie",
+    "pays": "Afrique du Sud",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Saucisses de Pleșcoi",
+    "pays": "Roumanie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Dopiaza",
+    "pays": "Inde",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Keema",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau, viande hachée"
+  },
+  {
+    "plat": "bagara baingan",
+    "pays": "Inde",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Alinazik kebab",
+    "pays": "Turquie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Mirchi ka salan",
+    "pays": "Inde",
+    "ingrédients": "Capsicum"
+  },
+  {
+    "plat": "Ajethna",
+    "pays": "Inde",
+    "ingrédients": "légume"
+  },
+  {
+    "plat": "Alu Potala Rasa",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Cawl",
+    "pays": "pays de Galles",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Curry goat",
+    "pays": "Inde",
+    "ingrédients": "viande de chèvre"
+  },
+  {
+    "plat": "Dalcha",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Devilled kidneys",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Fahsa",
+    "pays": "Yémen",
+    "ingrédients": "Fenugrec, viande d'agneau"
+  },
+  {
+    "plat": "Palak paneer",
+    "pays": "Pendjab",
+    "ingrédients": "épinard, Panir"
+  },
+  {
+    "plat": "Injipuli",
+    "pays": "Inde",
+    "ingrédients": "gingembre"
+  },
+  {
+    "plat": "kol böreği",
+    "pays": "Turquie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Kairi ka do pyaza",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Kombdi vade",
+    "pays": "Inde",
+    "ingrédients": "poulet au curry"
+  },
+  {
+    "plat": "Laal maans",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Machha Jhola",
+    "pays": "Bengale",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Madras curry sauce",
+    "pays": "Inde",
+    "ingrédients": "Chili (mélange d'épices)"
+  },
+  {
+    "plat": "Malabar matthi curry",
+    "pays": "Inde",
+    "ingrédients": "sardine"
+  },
+  {
+    "plat": "Naan qalia",
+    "pays": "Inde",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Pasanda",
+    "pays": "Empire moghol",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "pigeon pie",
+    "pays": "France",
+    "ingrédients": "Columbidae"
+  },
+  {
+    "plat": "Pinchitos",
+    "pays": "Espagne",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Quzi",
+    "pays": "Irak",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Santula",
+    "pays": "Inde",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Sarburma",
+    "pays": "Turquie",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Skilpadjies",
+    "pays": "Afrique du Sud",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Squab pie",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande d'agneau"
+  },
+  {
+    "plat": "Bortsch",
+    "pays": "République populaire de Chine, Rus' de Kyiv",
+    "ingrédients": "carotte, pomme de terre, oignon, chou blanc, Brassica olearacea, betterave, Beta, Daucus carota subsp. sativus"
+  },
+  {
+    "plat": "Dondurma",
+    "pays": "Turquie",
+    "ingrédients": "lait, sucre, mastic, Salep"
+  },
+  {
+    "plat": "tranche napolitaine",
+    "pays": "Italie",
+    "ingrédients": "glace au chocolat, glace à la vanille, glace à la fraise"
+  },
+  {
+    "plat": "Steak tartare",
+    "pays": "France, Royaume des Francs",
+    "ingrédients": "œuf, viande bovine, viande de cheval"
+  },
+  {
+    "plat": "Chili de crabe",
+    "pays": "Singapour",
+    "ingrédients": "Brachyura"
+  },
+  {
+    "plat": "glace à l'eau",
+    "pays": "États-Unis",
+    "ingrédients": "eau"
+  },
+  {
+    "plat": "Lahmacun",
+    "pays": "Turquie, Arménie, Liban, Syrie",
+    "ingrédients": "légume, pâte, fines herbes, viande hachée"
+  },
+  {
+    "plat": "Spaghettieis",
+    "pays": "Allemagne",
+    "ingrédients": "coulis de fraise"
+  },
+  {
+    "plat": "Tom kha",
+    "pays": "Thaïlande",
+    "ingrédients": "citronnelle, Agaricus bisporus, Alpinia galanga, lait de coco, viande de poulet"
+  },
+  {
+    "plat": "Anges à cheval",
+    "pays": "Angleterre",
+    "ingrédients": "lard, huître"
+  },
+  {
+    "plat": "Baik kut kyee kaik",
+    "pays": "Birmanie",
+    "ingrédients": "Shahe fen"
+  },
+  {
+    "plat": "calf's liver and bacon",
+    "pays": "Écosse",
+    "ingrédients": "lard, foie"
+  },
+  {
+    "plat": "Clams casino",
+    "pays": "États-Unis",
+    "ingrédients": "palourde"
+  },
+  {
+    "plat": "ojingeo-chae-bokkeum",
+    "pays": "Corée",
+    "ingrédients": "dried shredded squid"
+  },
+  {
+    "plat": "gul-gukbap",
+    "pays": "Corée",
+    "ingrédients": "huître"
+  },
+  {
+    "plat": "Miruhulee boava",
+    "pays": "Maldives",
+    "ingrédients": "Octopoda"
+  },
+  {
+    "plat": "Nakji bokkeum",
+    "pays": "Corée",
+    "ingrédients": "Octopus minor"
+  },
+  {
+    "plat": "New England clam bake",
+    "pays": "États-Unis",
+    "ingrédients": "fruits de mer"
+  },
+  {
+    "plat": "Oysters Rockefeller",
+    "pays": "États-Unis",
+    "ingrédients": "huître"
+  },
+  {
+    "plat": "Oysters en brochette",
+    "pays": "États-Unis",
+    "ingrédients": "huître"
+  },
+  {
+    "plat": "rolled oyster",
+    "pays": "États-Unis",
+    "ingrédients": "huître, farine de maïs"
+  },
+  {
+    "plat": "Shrimp Creole",
+    "pays": "États-Unis",
+    "ingrédients": "crevette"
+  },
+  {
+    "plat": "Cotoletta",
+    "pays": "France",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Oyster stew",
+    "pays": "États-Unis",
+    "ingrédients": "huître"
+  },
+  {
+    "plat": "Mực rang muối",
+    "pays": "Viêt Nam",
+    "ingrédients": "Teuthida"
+  },
+  {
+    "plat": "Crab puff",
+    "pays": "États-Unis",
+    "ingrédients": "crab meat"
+  },
+  {
+    "plat": "Steak and oyster pie",
+    "pays": "Angleterre",
+    "ingrédients": "huître, viande bovine"
+  },
+  {
+    "plat": "Crabe sauce d'huître",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Brachyura"
+  },
+  {
+    "plat": "mille-feuille",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Kransekake",
+    "pays": "Danemark",
+    "ingrédients": "amandier"
+  },
+  {
+    "plat": "gâteau des anges",
+    "pays": "États-Unis",
+    "ingrédients": "sucre, farine, blanc d'œuf, Q16630393"
+  },
+  {
+    "plat": "quatre-quarts",
+    "pays": "royaume de Grande-Bretagne",
+    "ingrédients": "sucre, beurre, farine, œuf"
+  },
+  {
+    "plat": "pancake",
+    "pays": "République populaire de Chine",
+    "ingrédients": "lait, farine, huile, œuf"
+  },
+  {
+    "plat": "Religieuse",
+    "pays": "France",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "kouglof",
+    "pays": "Allemagne",
+    "ingrédients": "levure de boulanger"
+  },
+  {
+    "plat": "Gâteau de Battenberg",
+    "pays": "Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Pain d'épices",
+    "pays": "Suède",
+    "ingrédients": "gingembre"
+  },
+  {
+    "plat": "panpepato",
+    "pays": "Italie",
+    "ingrédients": "amandier"
+  },
+  {
+    "plat": "Paska",
+    "pays": "Russie, Biélorussie",
+    "ingrédients": "lait, sucre, beurre, œuf"
+  },
+  {
+    "plat": "muffin",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Tourte au kirsch de Zoug",
+    "pays": "Suisse",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Galette",
+    "pays": "France",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Prinzregententorte",
+    "pays": "Allemagne",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Baba au rhum",
+    "pays": "Italie, France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Tarte Dobos",
+    "pays": "Hongrie",
+    "ingrédients": "chocolat, Vanille, rhum, sucre glace, Sponge cake, jus de citron"
+  },
+  {
+    "plat": "Bienenstich",
+    "pays": "Allemagne",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Streuselkuchen",
+    "pays": "Allemagne",
+    "ingrédients": "streusel"
+  },
+  {
+    "plat": "Frankfurter Kranz",
+    "pays": "Turquie",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "kouign-amann",
+    "pays": "France",
+    "ingrédients": "sucre, beurre, pâte"
+  },
+  {
+    "plat": "Linzer Torte",
+    "pays": "Autriche",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "dacquoise",
+    "pays": "France",
+    "ingrédients": "meringue"
+  },
+  {
+    "plat": "madeleine",
+    "pays": "France",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "gâteau aux carottes",
+    "pays": "Suisse",
+    "ingrédients": "carotte, farine"
+  },
+  {
+    "plat": "gâteau basque",
+    "pays": "France",
+    "ingrédients": "Plat aux amandes"
+  },
+  {
+    "plat": "Pastiera",
+    "pays": "Italie",
+    "ingrédients": "Ricotta"
+  },
+  {
+    "plat": "cupcake",
+    "pays": "États-Unis",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "Scone",
+    "pays": "Royaume-Uni",
+    "ingrédients": "blé"
+  },
+  {
+    "plat": "tarte à la crème de Boston",
+    "pays": "États-Unis",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Buccellato",
+    "pays": "Italie",
+    "ingrédients": "fruit confit"
+  },
+  {
+    "plat": "saint-honoré",
+    "pays": "France",
+    "ingrédients": "pâte feuilletée, profiterole, Crème chiboust"
+  },
+  {
+    "plat": "Cassata",
+    "pays": "Italie",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Sponge cake",
+    "pays": "Italie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "gooey butter cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Gâteaux gallois",
+    "pays": "pays de Galles",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Bolo de Mel",
+    "pays": "Portugal",
+    "ingrédients": "mélasse"
+  },
+  {
+    "plat": "Paris-Brest",
+    "pays": "France",
+    "ingrédients": "amande, pâte à choux, crème mousseline"
+  },
+  {
+    "plat": "Eccles cake",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "flaky pastry"
+  },
+  {
+    "plat": "Prinsesstårta",
+    "pays": "Suède",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Chiffon cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Far breton",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Kulfi",
+    "pays": "Empire moghol",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Bouza",
+    "pays": "Syrie",
+    "ingrédients": "lait, Salep"
+  },
+  {
+    "plat": "Butter Pecan",
+    "pays": "États-Unis",
+    "ingrédients": "Pacanier"
+  },
+  {
+    "plat": "Glace à la pâte à cookies aux pépites de chocolat",
+    "pays": "États-Unis",
+    "ingrédients": "cookie aux pépites de chocolat"
+  },
+  {
+    "plat": "Nieve",
+    "pays": "Mexique",
+    "ingrédients": "eau, fruit"
+  },
+  {
+    "plat": "Bastani",
+    "pays": "Iran",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Glace Hokey Pokey",
+    "pays": "Nouvelle-Zélande",
+    "ingrédients": "honeycomb toffee, glace à la vanille"
+  },
+  {
+    "plat": "Raspberry Ripple",
+    "pays": "Royaume-Uni",
+    "ingrédients": "framboise"
+  },
+  {
+    "plat": "rocky road",
+    "pays": "États-Unis",
+    "ingrédients": "glace au chocolat"
+  },
+  {
+    "plat": "Tafelspitz",
+    "pays": "Autriche",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Cordon bleu",
+    "pays": "Suisse",
+    "ingrédients": "fromage, veau"
+  },
+  {
+    "plat": "Carpaccio",
+    "pays": "Italie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "steak and kidney pie",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Chateaubriand (viande)",
+    "pays": "Angleterre",
+    "ingrédients": "filet de bœuf"
+  },
+  {
+    "plat": "Pepper steak",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Coda alla vaccinara",
+    "pays": "Italie",
+    "ingrédients": "rabo de toro"
+  },
+  {
+    "plat": "Tournedos Rossini",
+    "pays": "France",
+    "ingrédients": "Filet mignon"
+  },
+  {
+    "plat": "sandwich français au bœuf avec sauce",
+    "pays": "États-Unis",
+    "ingrédients": "baguette"
+  },
+  {
+    "plat": "Pašticada",
+    "pays": "Croatie",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Sandwich italien au bœuf",
+    "pays": "États-Unis",
+    "ingrédients": "Rosbif"
+  },
+  {
+    "plat": "Steak frites",
+    "pays": "Belgique",
+    "ingrédients": "steak"
+  },
+  {
+    "plat": "Steamed meatball",
+    "pays": "Hong Kong",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Pozharsky cutlet",
+    "pays": "Russie",
+    "ingrédients": "poulet"
+  },
+  {
+    "plat": "Mechado",
+    "pays": "Philippines",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Beef Manhattan",
+    "pays": "États-Unis",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "beef bun",
+    "pays": "Hong Kong",
+    "ingrédients": "pain, bœuf haché"
+  },
+  {
+    "plat": "Bistek",
+    "pays": "Philippines",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Bulalo",
+    "pays": "Philippines",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "hot hamburger plate",
+    "pays": "États-Unis",
+    "ingrédients": "frite"
+  },
+  {
+    "plat": "Rollatini",
+    "pays": "Italie",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Skomakarlåda",
+    "pays": "Suède",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Steak Diane",
+    "pays": "États-Unis",
+    "ingrédients": "bifteck"
+  },
+  {
+    "plat": "Suadero",
+    "pays": "Mexique",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Tavern sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "bun"
+  },
+  {
+    "plat": "Rouladen",
+    "pays": "Bohême",
+    "ingrédients": "lard, œuf, moutarde, viande bovine, cornichon"
+  },
+  {
+    "plat": "tigre qui pleure",
+    "pays": "Thaïlande",
+    "ingrédients": "fish sauce, brisket"
+  },
+  {
+    "plat": "Rocky Mountain oysters",
+    "pays": "Canada",
+    "ingrédients": "Animelles"
+  },
+  {
+    "plat": "Steak de Burgo",
+    "pays": "États-Unis",
+    "ingrédients": "filet de bœuf"
+  },
+  {
+    "plat": "Steak de Hambourg",
+    "pays": "Allemagne",
+    "ingrédients": "bifteck"
+  },
+  {
+    "plat": "Empal gepuk",
+    "pays": "Indonésie, Java occidental",
+    "ingrédients": "sucre, viande bovine, lait de coco, condiment"
+  },
+  {
+    "plat": "Alambre",
+    "pays": "Mexique",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Sarsiado",
+    "pays": "Philippines",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Nem Nướng",
+    "pays": "Viêt Nam",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Osam bulgogi",
+    "pays": "Corée",
+    "ingrédients": "Céphalopodes utilisés en cuisine"
+  },
+  {
+    "plat": "Sisig",
+    "pays": "Philippines",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Galbi",
+    "pays": "Corée",
+    "ingrédients": "Bos taurus"
+  },
+  {
+    "plat": "Bulgogi",
+    "pays": "Corée du Nord",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Katsukarē",
+    "pays": "Japon",
+    "ingrédients": "Oryza sativa"
+  },
+  {
+    "plat": "Cassoeula",
+    "pays": "Italie",
+    "ingrédients": "Chou de Milan"
+  },
+  {
+    "plat": "Saltimbocca",
+    "pays": "Italie",
+    "ingrédients": "Sauge, veau, Prosciutto crudo"
+  },
+  {
+    "plat": "Bacon Explosion",
+    "pays": "États-Unis",
+    "ingrédients": "lard"
+  },
+  {
+    "plat": "Char siu",
+    "pays": "République populaire de Chine",
+    "ingrédients": "miel, viande de porc, Sauce hoisin, vin muté, Cinq épices, Alcool de riz, Tofu fermenté, dark soy sauce"
+  },
+  {
+    "plat": "Brochette",
+    "pays": "Portugal",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Kakuni",
+    "pays": "Japon",
+    "ingrédients": "lard"
+  },
+  {
+    "plat": "pork pie",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Bakkwa",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de porc, Viande séchée"
+  },
+  {
+    "plat": "Tourtière du Lac-Saint-Jean",
+    "pays": "Canada",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Dinuguan",
+    "pays": "Philippines",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "chicharrón",
+    "pays": "Espagne",
+    "ingrédients": "pork belly, couenne"
+  },
+  {
+    "plat": "Rosticciana",
+    "pays": "Italie",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Slavink",
+    "pays": "Pays-Bas",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Carnitas",
+    "pays": "Mexique",
+    "ingrédients": "Mijotage"
+  },
+  {
+    "plat": "Cơm tấm",
+    "pays": "Viêt Nam",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "pork tenderloin sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "breaded cutlet"
+  },
+  {
+    "plat": "nem",
+    "pays": "Viêt Nam",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Tokwa’t baboy",
+    "pays": "Philippines",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "opéra",
+    "pays": "France",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Bundt cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Spekkoek",
+    "pays": "Indonésie",
+    "ingrédients": "jaune d'oeuf"
+  },
+  {
+    "plat": "frog cake",
+    "pays": "Australie",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Shortcake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Nürnberger Lebkuchen",
+    "pays": "Allemagne",
+    "ingrédients": "miel"
+  },
+  {
+    "plat": "Belokranjska povitica",
+    "pays": "Slovénie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Torta caprese",
+    "pays": "Italie",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "Parkin",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Uirō",
+    "pays": "Japon",
+    "ingrédients": "farine, farine de riz"
+  },
+  {
+    "plat": "Cornulete",
+    "pays": "Roumanie",
+    "ingrédients": "Loukoum"
+  },
+  {
+    "plat": "Fraisier",
+    "pays": "France",
+    "ingrédients": "crème, Génoise, fraise"
+  },
+  {
+    "plat": "framboisier",
+    "pays": "France",
+    "ingrédients": "framboise"
+  },
+  {
+    "plat": "Gâteau-semelle",
+    "pays": "Mongolie",
+    "ingrédients": "graisse"
+  },
+  {
+    "plat": "Joffre",
+    "pays": "Roumanie",
+    "ingrédients": "babeurre"
+  },
+  {
+    "plat": "Mchewek",
+    "pays": "Algérie",
+    "ingrédients": "œuf, amande"
+  },
+  {
+    "plat": "gâteau à la broche",
+    "pays": "Allemagne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Bulla cake",
+    "pays": "Jamaïque",
+    "ingrédients": "mélasse"
+  },
+  {
+    "plat": "Chantilly cake",
+    "pays": "États-Unis",
+    "ingrédients": "gâteau au chocolat"
+  },
+  {
+    "plat": "Coconut cake",
+    "pays": "États-Unis",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "depression cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "dirt cake",
+    "pays": "États-Unis",
+    "ingrédients": "Oreo"
+  },
+  {
+    "plat": "doberge cake",
+    "pays": "États-Unis",
+    "ingrédients": "gâteau"
+  },
+  {
+    "plat": "Fat rascal",
+    "pays": "Royaume-Uni",
+    "ingrédients": "raisin de Corinthe"
+  },
+  {
+    "plat": "Funing big cake",
+    "pays": "République populaire de Chine",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Garash cake",
+    "pays": "Bulgarie",
+    "ingrédients": "noix"
+  },
+  {
+    "plat": "Happy Cake",
+    "pays": "États-Unis",
+    "ingrédients": "ananas"
+  },
+  {
+    "plat": "Heavy cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Miche",
+    "pays": "France",
+    "ingrédients": "farine de maïs, blé"
+  },
+  {
+    "plat": "Paper wrapped cake",
+    "pays": "Hong Kong",
+    "ingrédients": "Chiffon cake"
+  },
+  {
+    "plat": "Tea loaf",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "fruit"
+  },
+  {
+    "plat": "toto",
+    "pays": "Jamaïque",
+    "ingrédients": "noix de coco"
+  },
+  {
+    "plat": "Bái táng gāo",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Q12224442",
+    "pays": "Arabie saoudite",
+    "ingrédients": "sucre, farine, huile"
+  },
+  {
+    "plat": "mendiant",
+    "pays": "France",
+    "ingrédients": "chocolat"
+  },
+  {
+    "plat": "Khobz el bey",
+    "pays": "Algérie",
+    "ingrédients": "Plat aux amandes"
+  },
+  {
+    "plat": "Swiss Wing",
+    "pays": "République populaire de Chine, Hong Kong",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Dong'an chicken",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "hot chicken",
+    "pays": "États-Unis",
+    "ingrédients": "Uranus, piment de Cayenne"
+  },
+  {
+    "plat": "Coq au vin",
+    "pays": "France",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Coronation chicken",
+    "pays": "Royaume-Uni",
+    "ingrédients": "viande de poulet, curry"
+  },
+  {
+    "plat": "Poulet à la Kiev",
+    "pays": "Empire russe",
+    "ingrédients": "beurre, Chapelure, viande de poulet"
+  },
+  {
+    "plat": "Buldak",
+    "pays": "Corée",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Sanbeiji",
+    "pays": "République populaire de Chine, Chine",
+    "ingrédients": "huile de sésame, sauce soja, viande de poulet, Alcool de riz"
+  },
+  {
+    "plat": "White cut chicken",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Galinha à Portuguesa",
+    "pays": "Macao",
+    "ingrédients": "riz, viande de poulet, pomme de terre"
+  },
+  {
+    "plat": "Poulet tandoori",
+    "pays": "Inde",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "poulet frit",
+    "pays": "Écosse",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "nugget de poulet",
+    "pays": "Nouvelle-Zélande",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "ailes de poulet à la mode de Buffalo",
+    "pays": "États-Unis",
+    "ingrédients": "chicken wing"
+  },
+  {
+    "plat": "lemon chicken",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "dak-galbi",
+    "pays": "Corée",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Butter chicken",
+    "pays": "Inde",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Poulet Marengo",
+    "pays": "France",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Chicken 65",
+    "pays": "Inde",
+    "ingrédients": "poulet"
+  },
+  {
+    "plat": "Coxinha",
+    "pays": "Brésil",
+    "ingrédients": "viande"
+  },
+  {
+    "plat": "Pollo a la Brasa",
+    "pays": "Pérou",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Andong jjimdak",
+    "pays": "Corée",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Bourbon chicken",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "galinha à Africana",
+    "pays": "Macao",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "cashew chicken",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "chicken and waffles",
+    "pays": "États-Unis",
+    "ingrédients": "gaufre, poulet frit"
+  },
+  {
+    "plat": "Bâtonnet de poulet",
+    "pays": "États-Unis",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Chicken parm",
+    "pays": "États-Unis",
+    "ingrédients": "mozzarella, Parmigiano Reggiano, viande de poulet, sauce tomate"
+  },
+  {
+    "plat": "chicken à la King",
+    "pays": "Angleterre",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Chikuzenni",
+    "pays": "Japon",
+    "ingrédients": "Dashi"
+  },
+  {
+    "plat": "Chilli chicken",
+    "pays": "Inde",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "crispy fried chicken",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Dakjuk",
+    "pays": "Corée",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Poulet à l'écorce de mandarine",
+    "pays": "États-Unis",
+    "ingrédients": "orange, viande de poulet"
+  },
+  {
+    "plat": "Livre de cuisine/Poulet à la sauce soja",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Gulai Ayam",
+    "pays": "Indonésie",
+    "ingrédients": "Gulai"
+  },
+  {
+    "plat": "Circassian chicken",
+    "pays": "Circassie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Lontong Cap Go Meh",
+    "pays": "Indonésie",
+    "ingrédients": "lait de coco, Lontong, poivrier, coriander seed, tête d'ail"
+  },
+  {
+    "plat": "Nasi tim",
+    "pays": "Indonésie",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Opor ayam",
+    "pays": "Indonésie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Ostropel",
+    "pays": "Roumanie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Poulet au fromage",
+    "pays": "France",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "dak-bokkeum-tang",
+    "pays": "Corée",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Wenchang chicken",
+    "pays": "République populaire de Chine",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Taiwan fried chicken",
+    "pays": "Taïwan",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Mie ayam",
+    "pays": "Indonésie",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Ayam bakar",
+    "pays": "Indonésie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "sulu köfte",
+    "pays": "Turquie",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Granita",
+    "pays": "Sicile",
+    "ingrédients": "sucre"
+  },
+  {
+    "plat": "Touron",
+    "pays": "Espagne, Italie",
+    "ingrédients": "miel, sucre, œuf, amande"
+  },
+  {
+    "plat": "Bündner Nusstorte",
+    "pays": "Suisse",
+    "ingrédients": "noix, pâte brisée"
+  },
+  {
+    "plat": "Caviar rouge",
+    "pays": "Japon",
+    "ingrédients": "rogue"
+  },
+  {
+    "plat": "Faludeh",
+    "pays": "Iran",
+    "ingrédients": "vermicelle"
+  },
+  {
+    "plat": "gâteau de Sirop",
+    "pays": "États-Unis",
+    "ingrédients": "cuisine cadienne"
+  },
+  {
+    "plat": "Walnut and coffee cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "pain d'épices",
+    "pays": "France",
+    "ingrédients": "gâteau"
+  },
+  {
+    "plat": "tompouce",
+    "pays": "Pays-Bas",
+    "ingrédients": "pâte feuilletée"
+  },
+  {
+    "plat": "Q21057408",
+    "pays": "Chili",
+    "ingrédients": "jambon, viande de porc"
+  },
+  {
+    "plat": "Lady Baltimore cake",
+    "pays": "États-Unis",
+    "ingrédients": "Sponge cake"
+  },
+  {
+    "plat": "Karydopita",
+    "pays": "Grèce",
+    "ingrédients": "noix"
+  },
+  {
+    "plat": "blackout cake",
+    "pays": "États-Unis",
+    "ingrédients": "chocolate pudding"
+  },
+  {
+    "plat": "Q47347125",
+    "pays": "Italie",
+    "ingrédients": "pain, lait, raisin sec, biscuit, cacaoyer, Pignon de pin, fruit confit, Arôme, Amaretti"
+  },
+  {
+    "plat": "Bretzel",
+    "pays": "Allemagne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Patbingsu",
+    "pays": "Corée",
+    "ingrédients": "Haricot azuki"
+  },
+  {
+    "plat": "Surimi",
+    "pays": "Japon",
+    "ingrédients": "fish fillet"
+  },
+  {
+    "plat": "baekseolgi",
+    "pays": "Corée",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Kakigōri",
+    "pays": "Japon",
+    "ingrédients": "glace"
+  },
+  {
+    "plat": "Mujigae-tteok",
+    "pays": "Corée",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Sauce XO",
+    "pays": "Hong Kong",
+    "ingrédients": "Conpoy"
+  },
+  {
+    "plat": "hot dog bun",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "injeolmi",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "California roll",
+    "pays": "États-Unis",
+    "ingrédients": "riz, avocat, concombre, crab meat"
+  },
+  {
+    "plat": "Tteokbokki",
+    "pays": "Corée",
+    "ingrédients": "tteokmyeon"
+  },
+  {
+    "plat": "pain melon",
+    "pays": "Japon",
+    "ingrédients": "pâte"
+  },
+  {
+    "plat": "jambon-beurre",
+    "pays": "France",
+    "ingrédients": "beurre, jambon, baguette, cornichon"
+  },
+  {
+    "plat": "Poulet au marsala",
+    "pays": "Italie",
+    "ingrédients": "farine, échalote, champignon comestible, Marsala, viande de poulet, oignon"
+  },
+  {
+    "plat": "Mahyawa",
+    "pays": "Iran",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Budu",
+    "pays": "Malaisie",
+    "ingrédients": "Anchois"
+  },
+  {
+    "plat": "bupyeon",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Chapssal-tteok",
+    "pays": "Corée",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Colston bun",
+    "pays": "Angleterre",
+    "ingrédients": "levure de boulanger"
+  },
+  {
+    "plat": "jeolpyeon",
+    "pays": "Corée",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Jeungpyeon",
+    "pays": "Corée",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "peanut butter bun",
+    "pays": "Hong Kong",
+    "ingrédients": "Beurre d'arachide"
+  },
+  {
+    "plat": "Mantou",
+    "pays": "République populaire de Chine",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "My yhs",
+    "pays": "Espagne",
+    "ingrédients": "fromage, jambon de Paris"
+  },
+  {
+    "plat": "oladyi",
+    "pays": "Russie",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Gravlax",
+    "pays": "Suède",
+    "ingrédients": "saumon"
+  },
+  {
+    "plat": "Poffertjes",
+    "pays": "Pays-Bas",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Mochi",
+    "pays": "Japon",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Suncake",
+    "pays": "Taïwan",
+    "ingrédients": "Maltose"
+  },
+  {
+    "plat": "Blini",
+    "pays": "Russie",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Donauwelle",
+    "pays": "Allemagne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Hirayachi",
+    "pays": "Japon",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Butterkuchen",
+    "pays": "Allemagne",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Dosa",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Dorayaki",
+    "pays": "Japon",
+    "ingrédients": "Kasutera, Anko"
+  },
+  {
+    "plat": "ceviche",
+    "pays": "Pérou",
+    "ingrédients": "poisson, coquille"
+  },
+  {
+    "plat": "Gundel pancake",
+    "pays": "Hongrie",
+    "ingrédients": "noix"
+  },
+  {
+    "plat": "Lahoh",
+    "pays": "Somalie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tiradito",
+    "pays": "Pérou",
+    "ingrédients": "poisson, jus de lime"
+  },
+  {
+    "plat": "Crempog",
+    "pays": "pays de Galles",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Appam",
+    "pays": "Sri Lanka",
+    "ingrédients": "Pâte"
+  },
+  {
+    "plat": "Borlengo",
+    "pays": "Italie",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Boquerones en vinagre",
+    "pays": "Espagne",
+    "ingrédients": "Anchois"
+  },
+  {
+    "plat": "apam balik",
+    "pays": "Brunei",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "chalbori-ppang",
+    "pays": "Corée",
+    "ingrédients": "barley"
+  },
+  {
+    "plat": "Serabi",
+    "pays": "Indonésie",
+    "ingrédients": "farine de riz"
+  },
+  {
+    "plat": "Farinata",
+    "pays": "Italie",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "Funkaso",
+    "pays": "Nigeria",
+    "ingrédients": "millet"
+  },
+  {
+    "plat": "Garudiya",
+    "pays": "Maldives",
+    "ingrédients": "thunnini"
+  },
+  {
+    "plat": "Mas huni",
+    "pays": "Maldives",
+    "ingrédients": "thunnini"
+  },
+  {
+    "plat": "Mas riha",
+    "pays": "Maldives",
+    "ingrédients": "thunnini"
+  },
+  {
+    "plat": "Memela",
+    "pays": "Mexique",
+    "ingrédients": "masa"
+  },
+  {
+    "plat": "Munini-imo",
+    "pays": "Japon",
+    "ingrédients": "fécule de pomme de terre"
+  },
+  {
+    "plat": "Pan bati",
+    "pays": "Antilles néerlandaises",
+    "ingrédients": "Sorghum"
+  },
+  {
+    "plat": "Ploye",
+    "pays": "Canada",
+    "ingrédients": "sarrasin"
+  },
+  {
+    "plat": "Hinava",
+    "pays": "Malaisie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "tomato omelette",
+    "pays": "Inde",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "Tuna casserole",
+    "pays": "États-Unis",
+    "ingrédients": "nouille"
+  },
+  {
+    "plat": "Palačinka",
+    "pays": "Autriche",
+    "ingrédients": "lait, farine, œuf"
+  },
+  {
+    "plat": "Ayam goreng",
+    "pays": "Indonésie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Umai",
+    "pays": "Malaisie",
+    "ingrédients": "poisson"
+  },
+  {
+    "plat": "Chicken Chettinad",
+    "pays": "Inde",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Q17998502",
+    "pays": "Indonésie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Ayam masak merah",
+    "pays": "Malaisie",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Har cheong gai",
+    "pays": "Singapour",
+    "ingrédients": "chicken wing"
+  },
+  {
+    "plat": "cornet à glace",
+    "pays": "Italie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tarte costarde",
+    "pays": "France",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Q3907228",
+    "pays": "Italie",
+    "ingrédients": "polenta"
+  },
+  {
+    "plat": "poularde demi-deuil",
+    "pays": "France",
+    "ingrédients": "poularde, truffe"
+  },
+  {
+    "plat": "Sweetened potato casserole",
+    "pays": "Finlande",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Sabayon",
+    "pays": "Italie",
+    "ingrédients": "sucre, œuf"
+  },
+  {
+    "plat": "Cobbler",
+    "pays": "États-Unis",
+    "ingrédients": "Pâte, fruit"
+  },
+  {
+    "plat": "Quesada pasiega",
+    "pays": "Espagne",
+    "ingrédients": "lait"
+  },
+  {
+    "plat": "Trifle",
+    "pays": "Angleterre",
+    "ingrédients": "crème pâtissière"
+  },
+  {
+    "plat": "Dame blanche",
+    "pays": "France",
+    "ingrédients": "crème glacée, sirop de chocolat, crème fouettée"
+  },
+  {
+    "plat": "Cuajada",
+    "pays": "Espagne",
+    "ingrédients": "lait de brebis"
+  },
+  {
+    "plat": "Xuixo",
+    "pays": "Espagne",
+    "ingrédients": "crème pâtissière"
+  },
+  {
+    "plat": "Pootharekulu",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "snow skin mooncake",
+    "pays": "République populaire de Chine, Hong Kong",
+    "ingrédients": "riz gluant"
+  },
+  {
+    "plat": "Xohol",
+    "pays": "Mexique",
+    "ingrédients": "cannelle, farine de maïs, noix de coco"
+  },
+  {
+    "plat": "Q12268392",
+    "pays": "Enkarterri",
+    "ingrédients": "sucre, cannelle"
+  },
+  {
+    "plat": "Hib",
+    "pays": "Croatie",
+    "ingrédients": "brandy, amande, figue"
+  },
+  {
+    "plat": "Ciğer kebap",
+    "pays": "Turquie",
+    "ingrédients": "foie"
+  },
+  {
+    "plat": "Salade lyonnaise",
+    "pays": "France",
+    "ingrédients": "Salade (plante)"
+  },
+  {
+    "plat": "Kasutera",
+    "pays": "Japon",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Lamington",
+    "pays": "Australie",
+    "ingrédients": "glaçage"
+  },
+  {
+    "plat": "Twinkie",
+    "pays": "États-Unis",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Dundee Cake",
+    "pays": "Écosse",
+    "ingrédients": "raisin de Corinthe"
+  },
+  {
+    "plat": "Tarte Tatin",
+    "pays": "France",
+    "ingrédients": "pomme"
+  },
+  {
+    "plat": "Panforte",
+    "pays": "Italie",
+    "ingrédients": "fruit à coque"
+  },
+  {
+    "plat": "Red velvet cake",
+    "pays": "États-Unis",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Prekmurska gibanica",
+    "pays": "Slovénie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "tourte aux mûres",
+    "pays": "États-Unis",
+    "ingrédients": "mûre"
+  },
+  {
+    "plat": "Jalea",
+    "pays": "Pérou",
+    "ingrédients": "manioc, produit de la mer, poisson, salsa criolla, Capsicum baccatum ‘Aji Amarillo’"
+  },
+  {
+    "plat": "jambon ibérique",
+    "pays": "Espagne, Portugal",
+    "ingrédients": "jambon"
+  },
+  {
+    "plat": "Chocolate crackles",
+    "pays": "Australie",
+    "ingrédients": "Rice Krispies"
+  },
+  {
+    "plat": "Elenski but",
+    "pays": "Bulgarie",
+    "ingrédients": "jambon"
+  },
+  {
+    "plat": "Kek Lapis Sarawak",
+    "pays": "Malaisie",
+    "ingrédients": "beurre"
+  },
+  {
+    "plat": "Neer dosa",
+    "pays": "Inde",
+    "ingrédients": "riz"
+  },
+  {
+    "plat": "Puftaloon",
+    "pays": "Australie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "rock cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Simnel cake",
+    "pays": "Royaume-Uni",
+    "ingrédients": "massepain"
+  },
+  {
+    "plat": "Morue",
+    "pays": "Portugal",
+    "ingrédients": "morue de l'Atlantique"
+  },
+  {
+    "plat": "Génoise",
+    "pays": "Italie",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "padak",
+    "pays": "Corée du Sud",
+    "ingrédients": "viande de poulet, poireau"
+  },
+  {
+    "plat": "Moon pie",
+    "pays": "États-Unis",
+    "ingrédients": "chocolat, guimauve, Biscuit Graham"
+  },
+  {
+    "plat": "Staffordshire oatcake",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "oatmeal"
+  },
+  {
+    "plat": "Kue mangkok",
+    "pays": "Indonésie",
+    "ingrédients": "farine, levure de boulanger, farine de riz, farine de blé, Q19743784"
+  },
+  {
+    "plat": "Asado",
+    "pays": "Argentine",
+    "ingrédients": "viande bovine"
+  },
+  {
+    "plat": "Q3980016",
+    "pays": "Italie",
+    "ingrédients": "viande de dinde"
+  },
+  {
+    "plat": "Q63524838",
+    "pays": "Éthiopie, Érythrée",
+    "ingrédients": "Injera"
+  },
+  {
+    "plat": "Applebee's Classic Combo",
+    "pays": "États-Unis",
+    "ingrédients": "quesadilla, mozzarella sticks, ailes de poulet à la mode de Buffalo, chips and dip, artichoke dip"
+  },
+  {
+    "plat": "S'more",
+    "pays": "États-Unis",
+    "ingrédients": "chocolat, guimauve, Biscuit Graham"
+  },
+  {
+    "plat": "taquito",
+    "pays": "Mexique",
+    "ingrédients": "tortilla"
+  },
+  {
+    "plat": "khichdi",
+    "pays": "sous-continent indien",
+    "ingrédients": "riz, lentil"
+  },
+  {
+    "plat": "Ema datshi",
+    "pays": "Bhoutan",
+    "ingrédients": "piment, Datshi"
+  },
+  {
+    "plat": "Bai ye",
+    "pays": "République populaire de Chine",
+    "ingrédients": "tofu"
+  },
+  {
+    "plat": "couilles de mouton",
+    "pays": "France",
+    "ingrédients": "testicule"
+  },
+  {
+    "plat": "Kare-kare",
+    "pays": "Philippines",
+    "ingrédients": "rabo de toro"
+  },
+  {
+    "plat": "Zeeuws spek",
+    "pays": "Pays-Bas",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Q3753375",
+    "pays": "Hongrie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Sangrecita",
+    "pays": "Pérou",
+    "ingrédients": "sang"
+  },
+  {
+    "plat": "Flan",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Dahi baigana",
+    "pays": "Inde",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "Q5684811",
+    "pays": "Iran",
+    "ingrédients": "olive"
+  },
+  {
+    "plat": "cheese on toast",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pain grillé, fromage"
+  },
+  {
+    "plat": "Enchilada",
+    "pays": "Mexique",
+    "ingrédients": "tortilla"
+  },
+  {
+    "plat": "Bobotie",
+    "pays": "Afrique du Sud",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "bossam",
+    "pays": "Corée",
+    "ingrédients": "carré"
+  },
+  {
+    "plat": "Gachas",
+    "pays": "Espagne",
+    "ingrédients": "farine de blé"
+  },
+  {
+    "plat": "Ganca",
+    "pays": "Roumanie",
+    "ingrédients": "maïs"
+  },
+  {
+    "plat": "Chana masala",
+    "pays": "Inde",
+    "ingrédients": "pois chiche"
+  },
+  {
+    "plat": "Chawanmushi",
+    "pays": "Japon",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Pogo (nourriture)",
+    "pays": "États-Unis",
+    "ingrédients": "hot-dog, saucisse de Vienne"
+  },
+  {
+    "plat": "Crostini",
+    "pays": "Italie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Saganáki",
+    "pays": "Grèce",
+    "ingrédients": "fromage"
+  },
+  {
+    "plat": "Bamba",
+    "pays": "Israël",
+    "ingrédients": "Beurre d'arachide"
+  },
+  {
+    "plat": "fricadelle",
+    "pays": "Belgique",
+    "ingrédients": "viande hachée"
+  },
+  {
+    "plat": "Foul",
+    "pays": "Égypte",
+    "ingrédients": "broad bean"
+  },
+  {
+    "plat": "Q61081704",
+    "pays": "Roumanie",
+    "ingrédients": "chicken breast"
+  },
+  {
+    "plat": "Mars frit",
+    "pays": "Écosse",
+    "ingrédients": "Pâte, Mars"
+  },
+  {
+    "plat": "Zuccotto",
+    "pays": "Italie",
+    "ingrédients": "gâteau"
+  },
+  {
+    "plat": "Zuppa inglese",
+    "pays": "Italie",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Onsen tamago",
+    "pays": "Japon",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "gimbap",
+    "pays": "Corée",
+    "ingrédients": "riz, légume, omelette, algue, jambon, produit de la mer"
+  },
+  {
+    "plat": "Omelette norvégienne",
+    "pays": "France",
+    "ingrédients": "crème glacée, biscuit, meringue"
+  },
+  {
+    "plat": "Frijoles refritos",
+    "pays": "Mexique",
+    "ingrédients": "saindoux, légume sec, fond, oignon, tête d'ail"
+  },
+  {
+    "plat": "Mititei",
+    "pays": "Roumanie",
+    "ingrédients": "ail, poivre, viande bovine, viande d'agneau"
+  },
+  {
+    "plat": "Shkedei marak",
+    "pays": "Israël",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "hwajeon",
+    "pays": "Corée",
+    "ingrédients": "jeon"
+  },
+  {
+    "plat": "wolgwa-chae",
+    "pays": "Corée",
+    "ingrédients": "muskmelon"
+  },
+  {
+    "plat": "Gelée d'herbe",
+    "pays": "République populaire de Chine",
+    "ingrédients": "Platostoma palustre"
+  },
+  {
+    "plat": "Bakewell tart",
+    "pays": "Angleterre, Royaume-Uni",
+    "ingrédients": "confiture, amande, Frangipane, pâte brisée"
+  },
+  {
+    "plat": "Q30918987",
+    "pays": "Espagne",
+    "ingrédients": "crème pâtissière"
+  },
+  {
+    "plat": "Q55788422",
+    "pays": "Allemagne",
+    "ingrédients": "pumpernickel, Q1520464"
+  },
+  {
+    "plat": "Applebee's Triple Chocolate Meltdown",
+    "pays": "États-Unis",
+    "ingrédients": "gâteau au chocolat, sirop de chocolat, glace à la vanille"
+  },
+  {
+    "plat": "Lontong",
+    "pays": "Indonésie",
+    "ingrédients": "gâteau de riz"
+  },
+  {
+    "plat": "Tramezzino",
+    "pays": "Italie",
+    "ingrédients": "pain"
+  },
+  {
+    "plat": "Pasta con le sarde",
+    "pays": "Italie",
+    "ingrédients": "pâtes"
+  },
+  {
+    "plat": "Lomo saltado",
+    "pays": "Pérou",
+    "ingrédients": "viande, vinaigre, sauce soja, Capsicum baccatum ‘Aji Amarillo’"
+  },
+  {
+    "plat": "Callos con garbanzos",
+    "pays": "Turquie",
+    "ingrédients": "tripes, pois chiche"
+  },
+  {
+    "plat": "Q29998523",
+    "pays": "Espagne",
+    "ingrédients": "pain, ail, œuf, amande"
+  },
+  {
+    "plat": "Potée berrichonne",
+    "pays": "France",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Aubergines à la bonifacienne",
+    "pays": "France",
+    "ingrédients": "aubergine"
+  },
+  {
+    "plat": "tava",
+    "pays": "Arménie",
+    "ingrédients": "courgette, viande d'agneau, oignon, tomate"
+  },
+  {
+    "plat": "Q55832716",
+    "pays": "Italie",
+    "ingrédients": "bouillon, Q3953085"
+  },
+  {
+    "plat": "Q58611926",
+    "pays": "Chili",
+    "ingrédients": "vin blanc, produit de la mer, oignon, tête d'ail"
+  },
+  {
+    "plat": "Mexican rice",
+    "pays": "Mexique",
+    "ingrédients": "riz, tomate, cumin"
+  },
+  {
+    "plat": "beef and broccoli",
+    "pays": "États-Unis",
+    "ingrédients": "brocoli, viande bovine"
+  },
+  {
+    "plat": "Burger King Hash Browns",
+    "pays": "États-Unis",
+    "ingrédients": "Hash browns"
+  },
+  {
+    "plat": "Burger King French Toast Sticks",
+    "pays": "États-Unis",
+    "ingrédients": "pain perdu"
+  },
+  {
+    "plat": "Burger King Onion Rings",
+    "pays": "États-Unis",
+    "ingrédients": "oignon"
+  },
+  {
+    "plat": "Chick-fil-A Chicken Sandwich",
+    "pays": "États-Unis",
+    "ingrédients": "poulet, aliments en saumure, bun"
+  },
+  {
+    "plat": "Salade de chèvre chaud",
+    "pays": "France",
+    "ingrédients": "salade, fromage de chèvre"
+  },
+  {
+    "plat": "Applebee's Spinach + Artichoke Dip",
+    "pays": "États-Unis",
+    "ingrédients": "spinach and artichoke dip"
+  },
+  {
+    "plat": "Chicken Wonton Tacos",
+    "pays": "États-Unis",
+    "ingrédients": "poulet, sauce, taco, coleslaw, coriandre"
+  },
+  {
+    "plat": "Carne Polaca",
+    "pays": "Mexique",
+    "ingrédients": "viande bovine, viande de poulet, chou"
+  },
+  {
+    "plat": "chicken-fried chicken",
+    "pays": "États-Unis",
+    "ingrédients": "Sauce au jus de viande, poulet frit"
+  },
+  {
+    "plat": "tempura udon",
+    "pays": "Japon",
+    "ingrédients": "soupe, tempura, Udon"
+  },
+  {
+    "plat": "Kun",
+    "pays": "Turquie",
+    "ingrédients": "viande de chèvre"
+  },
+  {
+    "plat": "Rouleau d'été",
+    "pays": "Viêt Nam",
+    "ingrédients": "viande de porc"
+  },
+  {
+    "plat": "Efó",
+    "pays": "Brésil",
+    "ingrédients": "Chili (mélange d'épices), crevette, tête d'ail"
+  },
+  {
+    "plat": "Iscas",
+    "pays": "Portugal",
+    "ingrédients": "foie"
+  },
+  {
+    "plat": "Tjälknöl",
+    "pays": "Suède",
+    "ingrédients": "élan"
+  },
+  {
+    "plat": "Äggakaka",
+    "pays": "Suède",
+    "ingrédients": "Apple, lait, œuf, airelle rouge, viande de porc, compote de pommes, farine de blé"
+  },
+  {
+    "plat": "Hotsi",
+    "pays": "Finlande",
+    "ingrédients": "viande, Q1423725, oignon"
+  },
+  {
+    "plat": "Q12033864",
+    "pays": "Slovaquie",
+    "ingrédients": "chlorure de sodium, farine, pomme de terre"
+  },
+  {
+    "plat": "smaženice",
+    "pays": "Bohême, Moravie",
+    "ingrédients": "Fungi, œuf"
+  },
+  {
+    "plat": "Zhent",
+    "pays": "Asie centrale",
+    "ingrédients": "miel, raisin sec, millet, quark, Beurre clarifié, sucre blanc"
+  },
+  {
+    "plat": "Igado",
+    "pays": "Philippines",
+    "ingrédients": "ail, viande de porc, Capsicum"
+  },
+  {
+    "plat": "Bugis",
+    "pays": "Indonésie",
+    "ingrédients": "Coleoptera, farine de riz"
+  },
+  {
+    "plat": "Q13583872",
+    "pays": "Bohême",
+    "ingrédients": "Sambucus nigra, farine, œuf"
+  },
+  {
+    "plat": "Q16089496",
+    "pays": "Serbie",
+    "ingrédients": "kajmak, œuf de poule"
+  },
+  {
+    "plat": "Olluquito",
+    "pays": "Pérou",
+    "ingrédients": "Charqui, Ulluco"
+  },
+  {
+    "plat": "Orzotto",
+    "pays": "Italie",
+    "ingrédients": "orge perlé"
+  },
+  {
+    "plat": "Q1302342",
+    "pays": "Hongrie",
+    "ingrédients": "crème, choucroute"
+  },
+  {
+    "plat": "galette-saucisse",
+    "pays": "France",
+    "ingrédients": "galette de sarrasin, saucisse"
+  },
+  {
+    "plat": "sandwich à la viande fumée",
+    "pays": "Canada",
+    "ingrédients": "moutarde, viande fumée, pain de seigle"
+  },
+  {
+    "plat": "Q5736147",
+    "pays": "Pérou",
+    "ingrédients": "Marraqueta, salsa criolla, Q5925980"
+  },
+  {
+    "plat": "Buttermilk koldskål",
+    "pays": "Danemark",
+    "ingrédients": "babeurre"
+  },
+  {
+    "plat": "Bubble and squeak",
+    "pays": "Royaume-Uni",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Pommes de terre ridées des Canaries",
+    "pays": "Espagne",
+    "ingrédients": "pomme de terre"
+  },
+  {
+    "plat": "Riz wolof",
+    "pays": "Sénégal",
+    "ingrédients": "riz, huile de palme, tomate"
+  },
+  {
+    "plat": "ovos moles",
+    "pays": "Portugal",
+    "ingrédients": "jaune d'oeuf"
+  },
+  {
+    "plat": "Maluns",
+    "pays": "Suisse, Autriche",
+    "ingrédients": "beurre, farine, pomme de terre"
+  },
+  {
+    "plat": "Panipuri",
+    "pays": "Inde",
+    "ingrédients": "farine"
+  },
+  {
+    "plat": "Bangers and mash",
+    "pays": "Royaume-Uni",
+    "ingrédients": "purée de pommes de terre"
+  },
+  {
+    "plat": "Homard Thermidor",
+    "pays": "France",
+    "ingrédients": "homard"
+  },
+  {
+    "plat": "Homard à l'américaine",
+    "pays": "France",
+    "ingrédients": "homard"
+  },
+  {
+    "plat": "Q7395374",
+    "pays": "Malaisie",
+    "ingrédients": "Gohan, oryza"
+  },
+  {
+    "plat": "Q22230906",
+    "pays": "Lituanie",
+    "ingrédients": "oignon, viande hachée, pomme de terre"
+  },
+  {
+    "plat": "pasta alla gricia",
+    "pays": "Italie",
+    "ingrédients": "pâtes, Guanciale, Pecorino romano"
+  },
+  {
+    "plat": "Weisswurst",
+    "pays": "Allemagne",
+    "ingrédients": "viande de porc, veau"
+  },
+  {
+    "plat": "Bak Kut Teh",
+    "pays": "Malaisie",
+    "ingrédients": "Travers de porc"
+  },
+  {
+    "plat": "Taro dumpling",
+    "pays": "République populaire de Chine",
+    "ingrédients": "taro"
+  },
+  {
+    "plat": "Devils on horseback",
+    "pays": "Royaume-Uni",
+    "ingrédients": "fruit séché, Bacon"
+  },
+  {
+    "plat": "Civet de lapin",
+    "pays": "France",
+    "ingrédients": "viande de lapin"
+  },
+  {
+    "plat": "Festival",
+    "pays": "Jamaïque",
+    "ingrédients": "sel, Levure chimique, farine de maïs, sucre roux de canne, common wheat flour"
+  },
+  {
+    "plat": "Taco rice",
+    "pays": "Japon",
+    "ingrédients": "riz, tomate, viande bovine, Lactuca"
+  },
+  {
+    "plat": "Sno-ball",
+    "pays": "États-Unis",
+    "ingrédients": "eau"
+  },
+  {
+    "plat": "Clamato",
+    "pays": "États-Unis",
+    "ingrédients": "tomate"
+  },
+  {
+    "plat": "White boiled shrimp",
+    "pays": "République populaire de Chine",
+    "ingrédients": "crevette"
+  },
+  {
+    "plat": "Albap",
+    "pays": "Corée",
+    "ingrédients": "bap"
+  },
+  {
+    "plat": "Buccellato di Lucca",
+    "pays": "Italie",
+    "ingrédients": "Sultanine"
+  },
+  {
+    "plat": "Tepek",
+    "pays": "Malaisie",
+    "ingrédients": "banane, sucre, farine de blé, noix de coco"
+  },
+  {
+    "plat": "Kvæfjord cake",
+    "pays": "Norvège",
+    "ingrédients": "Vanille, amandier, meringue, Q19378090"
+  },
+  {
+    "plat": "Gâteau au fromage japonais",
+    "pays": "Japon",
+    "ingrédients": "œuf"
+  },
+  {
+    "plat": "Q52376734",
+    "pays": "Suisse",
+    "ingrédients": "beurre, pâte"
+  },
+  {
+    "plat": "Q52378255",
+    "pays": "Suisse",
+    "ingrédients": "pâte, crème fouettée, blanc en neige"
+  },
+  {
+    "plat": "Q56756138",
+    "pays": "Suisse",
+    "ingrédients": "Boudoir, beurre, meringue"
+  },
+  {
+    "plat": "Q11675813",
+    "pays": "Japon",
+    "ingrédients": "viande de poulet"
+  },
+  {
+    "plat": "Q12024336",
+    "pays": "Bhoutan",
+    "ingrédients": "tomate, viande de poulet"
+  },
+  {
+    "plat": "Sobao",
+    "pays": "Espagne",
+    "ingrédients": "sucre"
+  }
+]
